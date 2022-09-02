@@ -194,7 +194,7 @@ header .profileHeader {
 	margin-top: 10%;
 }
 header .profileHeader p {
-	text-align: justify;
+	text-align: left;
 }
 header .socialNetworkNavBar {
 	text-align: center;
@@ -227,7 +227,7 @@ header .socialNetworkNavBar .socialNetworkNav {
 	display: inline-block;
 	text-align: left;
 	font-family: sans-serif;
-	text-align: justify;
+	text-align: left;
 }
 .mainContent .section2 {
 	display: block;
@@ -235,7 +235,7 @@ header .socialNetworkNavBar .socialNetworkNav {
 }
 .section2 .section2Content {
 	margin-top: 10%;
-	text-align: justify;
+	text-align: left;
 	margin-bottom: 10%;
 }
 .mainContent .externalResourcesNav {
@@ -275,10 +275,10 @@ header .profileHeader {
 	margin-top: 7%;
 }
 header .socialNetworkNavBar .socialNetworkNav {
-	width: 74px;
-	height: 74px;
+	width: 60px;
+	height: 60px;
 	display: inline-block;
-	margin-right: 23px;
+	margin-right: 13px;
 }
 /* Main content and sections */
 .section1 .section1Title, .section2 .section1Title {
