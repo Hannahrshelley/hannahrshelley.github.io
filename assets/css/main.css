@@ -1791,14 +1791,17 @@ input, select, textarea {
 			-webkit-transition: opacity .25s ease-in-out;
 			-ms-transition: opacity .25s ease-in-out;
 			transition: opacity .25s ease-in-out;
+			text-decoration: none
 		}
 
 			#nav a.icon:before {
 				padding-right: 0;
+				text-decoration: none
 			}
 
 			#nav a:before {
 				font-size: 0.8em;
+				text-decoration: none
 			}
 
 			#nav a:after {
@@ -1815,6 +1818,7 @@ input, select, textarea {
 				-webkit-transition: border-bottom-width .25s ease-in-out;
 				-ms-transition: border-bottom-width .25s ease-in-out;
 				transition: border-bottom-width .25s ease-in-out;
+				text-decoration: none
 			}
 
 			#nav a span {
@@ -1834,6 +1838,7 @@ input, select, textarea {
 				transition: opacity .25s ease-in-out;
 				width: 5.5em;
 				margin-left: -2.75em;
+				text-decoration: none
 			}
 
 				#nav a span:after {
@@ -1846,22 +1851,27 @@ input, select, textarea {
 					border-top: solid 0.6em #222222;
 					border-left: solid 0.6em transparent;
 					border-right: solid 0.6em transparent;
+					text-decoration: none
 				}
 
 			#nav a:hover {
 				opacity: 1.0;
+				text-decoration: none
 			}
 
 				#nav a:hover span {
 					opacity: 1.0;
+					text-decoration: none
 				}
 
 			#nav a.active {
 				opacity: 1.0;
+				text-decoration: none
 			}
 
 				#nav a.active:after {
 					border-bottom-width: 0.5em;
+					text-decoration: none
 				}
 
 		@media screen and (max-width: 980px) {
