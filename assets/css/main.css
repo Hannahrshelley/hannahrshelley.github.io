@@ -1773,6 +1773,7 @@ input, select, textarea {
 		text-align: center;
 		height: 4.25em;
 		cursor: default;
+		text-decoration: none
 	}
 
 		#nav a {
