@@ -148,6 +148,11 @@ footer .container {
     box-shadow: none;
 }
 
+footer #contact {
+    color: white;
+    border-bottom-color: white;
+}
+
 footer ul {
     display: flex;
     justify-content: center;
