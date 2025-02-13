@@ -64,3 +64,8 @@
         .fa {
             margin-right: 5px;
         }
+
+        @media (max-width: 600px) {
+            nav ul li, footer ul li {
+                display: block;
+                margin: 10px 0;
