@@ -149,7 +149,7 @@ footer .container {
 }
 
 footer h2 {
-    color: white;
+    color: white !important;
     border-bottom-color: white;  
 }
 
