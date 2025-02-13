@@ -24,6 +24,9 @@
             border-radius: 50%;
             object-fit: cover;
         }
+        nav {
+            display: none;
+        }
         nav ul {
             list-style: none;
             padding: 0;
@@ -64,8 +67,12 @@
         .fa {
             margin-right: 5px;
         }
-
         @media (max-width: 600px) {
+            nav {
+                display: block;
+            }
             nav ul li, footer ul li {
                 display: block;
                 margin: 10px 0;
+            }
+        }
