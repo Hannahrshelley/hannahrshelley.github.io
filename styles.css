@@ -45,6 +45,9 @@
             background: #333;
             color: white;
         }
+        footer .container {
+            background: #333;
+        }
         footer ul {
             list-style: none;
             padding: 0;
