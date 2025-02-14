@@ -1,5 +1,5 @@
 # hannahrshelley.github.io
 
-My resume/homepage.
+My digital resume/homepage.
 
 Coding help from [Claude.ai](claude.ai)
