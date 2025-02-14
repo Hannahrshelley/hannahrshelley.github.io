@@ -1,3 +1,4 @@
 # hannahrshelley.github.io
 
-My resume/homepage
+My resume/homepage.
+Hand-coded in HTML/CSS.
