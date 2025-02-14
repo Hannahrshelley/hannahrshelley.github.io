@@ -13,6 +13,8 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
     line-height: 1.6;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 /* Smooth Scrolling */
@@ -146,10 +148,6 @@ footer {
 footer .container {
     background: transparent;
     box-shadow: none;
-    width: 100%;
-    max-width: none;
-    margin: 0;
-    padding: 20px 0;
 }
 
 footer h2 {
@@ -296,8 +294,11 @@ footer a:hover {
     }
     
     .container {
-        width: 95%;
+        width: 100%;         /* Change from 95% */
         padding: 1rem;
+        margin: 1rem 0;      /* Remove horizontal margin */
+        border-radius: 0;    /* Remove border radius on mobile */
+        box-sizing: border-box; /* Ensure padding is included in width */
     }
     
     h1 { font-size: 2rem; }
