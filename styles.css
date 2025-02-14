@@ -146,6 +146,10 @@ footer {
 footer .container {
     background: transparent;
     box-shadow: none;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 20px 0;
 }
 
 footer h2 {
