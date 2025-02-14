@@ -1,4 +1,5 @@
 # hannahrshelley.github.io
 
 My resume/homepage.
-Coding help from Claude.ai
+
+Coding help from [Claude.ai](claude.ai)
