@@ -2,4 +2,4 @@
 
 My digital resume/homepage.
 
-Coding help from [Claude.ai](http://www.claude.ai)
+Coding help from [Claude.ai](http://www.claude.ai) for troubleshooting and polishing. 
