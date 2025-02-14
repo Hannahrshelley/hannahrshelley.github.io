@@ -267,7 +267,7 @@ footer a:hover {
 
 /* Icons */
 .publication-content .fa-github, 
-.publication-content .fa-wordpress, 
+.publication-content .fa-wordpress-simple, 
 .publication-content .fa-newspaper, 
 .publication-content .fa-book {
     color: var(--secondary-color);
