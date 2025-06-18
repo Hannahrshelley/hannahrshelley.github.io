@@ -305,5 +305,23 @@ footer a:hover {
     h1 { font-size: 2rem; }
     h2 { font-size: 1.75rem; }
     h3 { font-size: 1.25rem; }
+
+    footer .container {
+        width: 100%;
+        padding: 1rem;
+        margin: 1rem 0;
+        box-sizing: border-box;
+    }
+    
+    footer ul {
+        gap: 1.5rem;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+    footer ul li {
+        flex-shrink: 0;
+    }
 }
 
