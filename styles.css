@@ -276,32 +276,30 @@ footer a:hover {
 }
 
 @media (max-width: 768px) {
-    .publication-content {
-        margin-left: 0;
-    }
-    
-    .citation {
-        padding: 0.5rem;
-    }
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
     nav ul {
         flex-direction: column;
         align-items: center;
         gap: 1rem;
     }
-    
+
     .container {
-        width: 100%;         /* Change from 95% */
+        width: 100%;         /* Changed from 95% */
         padding: 1rem;
-        margin: 1rem 0;      /* Remove horizontal margin */
-        border-radius: 0;    /* Remove border radius on mobile */
+        margin: 1rem 0;      /* Removed horizontal margin */
+        border-radius: 0;    /* Removed border radius on mobile */
         box-sizing: border-box; /* Ensure padding is included in width */
     }
-    
+
+    .publication-content {
+        margin-left: 0;
+    }
+
+    .citation {
+        padding: 0.5rem;
+    }
+
     h1 { font-size: 2rem; }
     h2 { font-size: 1.75rem; }
     h3 { font-size: 1.25rem; }
 }
+
