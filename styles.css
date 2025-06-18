@@ -137,6 +137,7 @@ h3 {
     margin: 1rem 0;
 }
 
+
 /* Footer */
 footer {
     background: var(--secondary-color);
@@ -160,6 +161,9 @@ footer ul {
     justify-content: center;
     gap: 2rem;
     flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+    list-style: none;
 }
 
 footer a {
