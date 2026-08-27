@@ -2,19 +2,20 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bible Reading Tracker</title>
 <style>
-  body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; }
+  body { font-family: sans-serif; font-size: 17px; max-width: 600px; margin: 20px auto; padding: 0 16px; }
   #progress { color: #666; margin-bottom: 20px; font-size: 1.1em; }
   #reading-title { font-size: 1.4em; margin-bottom: 10px; }
   #reading-text { line-height: 1.6; white-space: pre-wrap; margin-bottom: 20px; }
-  button { padding: 10px 20px; font-size: 1em; cursor: pointer; margin-right: 10px; }
+  button { padding: 12px 18px; font-size: 1em; cursor: pointer; margin: 4px 8px 4px 0; min-height: 44px; }
   #all-readings { margin-top: 20px; border-top: 1px solid #ddd; padding-top: 20px; }
   #all-readings h2 { margin-top: 24px; }
-  .month-row { display: flex; align-items: center; gap: 10px; }
+  .month-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .month-row h3 { cursor: pointer; user-select: none; margin: 10px 0 4px; }
-  .month-row button { font-size: 0.8em; padding: 2px 8px; }
-  #all-readings label { display: block; padding: 4px 0; }
+  .month-row button { font-size: 0.85em; padding: 6px 12px; min-height: 36px; }
+  #all-readings label { display: block; padding: 8px 0; }
 </style>
 </head>
 <body>
