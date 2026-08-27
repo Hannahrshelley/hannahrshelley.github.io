@@ -11,7 +11,9 @@
   button { padding: 10px 20px; font-size: 1em; cursor: pointer; margin-right: 10px; }
   #all-readings { margin-top: 20px; border-top: 1px solid #ddd; padding-top: 20px; }
   #all-readings h2 { margin-top: 24px; }
-  #all-readings h3 { cursor: pointer; user-select: none; margin: 10px 0 4px; }
+  .month-row { display: flex; align-items: center; gap: 10px; }
+  .month-row h3 { cursor: pointer; user-select: none; margin: 10px 0 4px; }
+  .month-row button { font-size: 0.8em; padding: 2px 8px; }
   #all-readings label { display: block; padding: 4px 0; }
 </style>
 </head>
@@ -21,56 +23,58 @@
 <div id="reading-title"></div>
 <div id="reading-text">Loading text...</div>
 <button id="tick-btn">Mark as read</button>
+<button id="read-ahead-btn" style="display:none;">Read ahead anyway</button>
 <button id="toggle-view-btn">View all readings</button>
-<div id="done-message" style="display:none;">🎉 All caught up!</div>
-<button id="read-ahead-btn" style="display:none;">Read ahead</button>
+<div id="done-message" style="display:none;"></div>
 
 <div id="all-readings" style="display:none;"></div>
 
 <script>
-let readings = [];
+// ---------- Config ----------
+const BIN_ID = 'YOUR_BIN_ID';
+const API_KEY = 'YOUR_X_MASTER_KEY';
+const BASE_URL = `https://api.jsonbin.io/v3/b/${BIN_ID}`;
+
+let schedule = [];   // static, from readings.json
+let progress = {};   // dynamic, from JSONBin
 
 // ---------- Data loading & saving ----------
 
-async function loadReadings() {
-  const saved = localStorage.getItem('readings');
-  if (saved) {
-    readings = JSON.parse(saved);
-  } else {
-    const res = await fetch('readings.json');
-    readings = await res.json();
-    saveReadings();
-  }
+async function loadData() {
+  const scheduleRes = await fetch('readings.json');
+  schedule = await scheduleRes.json();
+
+  const progressRes = await fetch(BASE_URL + '/latest', {
+    headers: { 'X-Master-Key': API_KEY }
+  });
+  const data = await progressRes.json();
+  progress = data.record || {};
 }
 
-function saveReadings() {
-  localStorage.setItem('readings', JSON.stringify(readings));
+async function saveProgress() {
+  await fetch(BASE_URL, {
+    method: 'PUT',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Master-Key': API_KEY
+    },
+    body: JSON.stringify(progress)
+  });
+}
+
+function isDone(seq) {
+  return progress[seq]?.done || false;
+}
+
+function markDone(seq, done) {
+  progress[seq] = {
+    done,
+    completed_date: done ? new Date().toISOString().split('T')[0] : null
+  };
 }
 
 function findFirstUnread() {
-  return readings.find(r => !r.done);
-}
-
-// ---------- Progress display ----------
-
-function updateProgress() {
-  const current = findFirstUnread();
-  const progressEl = document.getElementById('progress');
-
-  if (!current) {
-    progressEl.textContent = '';
-    return;
-  }
-
-  const date = new Date(current.planned_date + 'T00:00:00');
-  const formatted = date.toLocaleDateString(undefined, {
-    weekday: 'long',
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
-  });
-
-  progressEl.textContent = `Scheduled for: ${formatted}`;
+  return schedule.find(r => !isDone(r.seq));
 }
 
 // ---------- Fetching Bible text ----------
@@ -93,19 +97,20 @@ async function fetchReadingText(book, reference) {
 // ---------- Main "up next" view ----------
 
 async function renderCurrentReading(forceShow = false) {
-  updateProgress();
   const current = findFirstUnread();
+  const progressEl = document.getElementById('progress');
   const tickBtn = document.getElementById('tick-btn');
-  const doneMsg = document.getElementById('done-message');
   const readAheadBtn = document.getElementById('read-ahead-btn');
+  const doneMsg = document.getElementById('done-message');
 
   // Fully finished the whole plan
   if (!current) {
+    progressEl.textContent = '';
     document.getElementById('reading-title').textContent = '';
     document.getElementById('reading-text').textContent = '';
     tickBtn.style.display = 'none';
     readAheadBtn.style.display = 'none';
-    doneMsg.textContent = '🎉 You\'ve finished the entire plan!';
+    doneMsg.textContent = "🎉 You've finished the entire plan!";
     doneMsg.style.display = 'block';
     return;
   }
@@ -113,13 +118,14 @@ async function renderCurrentReading(forceShow = false) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const plannedDate = new Date(current.planned_date + 'T00:00:00');
+  const formatted = plannedDate.toLocaleDateString(undefined, {
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+  });
 
   const isAheadOfSchedule = plannedDate > today && !forceShow;
 
   if (isAheadOfSchedule) {
-    const formatted = plannedDate.toLocaleDateString(undefined, {
-      weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
-    });
+    progressEl.textContent = '';
     document.getElementById('reading-title').textContent = '';
     document.getElementById('reading-text').textContent = '';
     tickBtn.style.display = 'none';
@@ -129,6 +135,7 @@ async function renderCurrentReading(forceShow = false) {
     return;
   }
 
+  progressEl.textContent = `Scheduled for: ${formatted}`;
   doneMsg.style.display = 'none';
   tickBtn.style.display = 'inline-block';
   readAheadBtn.style.display = 'none';
@@ -139,19 +146,21 @@ async function renderCurrentReading(forceShow = false) {
   document.getElementById('reading-text').textContent = text;
 }
 
-document.getElementById('tick-btn').addEventListener('click', () => {
+document.getElementById('tick-btn').addEventListener('click', async () => {
   const current = findFirstUnread();
   if (!current) return;
 
-  current.done = true;
-  current.completed_date = new Date().toISOString().split('T')[0];
-  saveReadings();
-  renderCurrentReading();
+  markDone(current.seq, true);
+  await saveProgress();
+  await renderCurrentReading();
 
-  // Keep the all-readings view in sync if it's open
   if (document.getElementById('all-readings').style.display !== 'none') {
     renderAllReadings();
   }
+});
+
+document.getElementById('read-ahead-btn').addEventListener('click', () => {
+  renderCurrentReading(true);
 });
 
 // ---------- All readings view (grouped by year/month) ----------
@@ -172,7 +181,7 @@ function groupByYearMonth(list) {
 function renderAllReadings() {
   const container = document.getElementById('all-readings');
   container.innerHTML = '';
-  const grouped = groupByYearMonth(readings);
+  const grouped = groupByYearMonth(schedule);
 
   const today = new Date();
   const currentYear = today.getFullYear().toString();
@@ -185,33 +194,51 @@ function renderAllReadings() {
 
     Object.keys(grouped[year]).forEach(month => {
       const isCurrent = (year === currentYear && month === currentMonth);
+      const monthReadings = grouped[year][month];
+
+      const monthRow = document.createElement('div');
+      monthRow.className = 'month-row';
 
       const monthHeader = document.createElement('h3');
       monthHeader.textContent = month;
       if (isCurrent) monthHeader.style.fontWeight = 'bold';
-      container.appendChild(monthHeader);
+
+      const markAllBtn = document.createElement('button');
+      markAllBtn.textContent = 'Mark all read';
+
+      monthRow.appendChild(monthHeader);
+      monthRow.appendChild(markAllBtn);
+      container.appendChild(monthRow);
 
       const list = document.createElement('div');
       list.style.display = isCurrent ? 'block' : 'none';
 
-      grouped[year][month].forEach(reading => {
+      monthReadings.forEach(reading => {
         const row = document.createElement('label');
 
         const checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
-        checkbox.checked = reading.done;
-        checkbox.addEventListener('change', () => {
-          reading.done = checkbox.checked;
-          reading.completed_date = checkbox.checked
-            ? new Date().toISOString().split('T')[0]
-            : null;
-          saveReadings();
-          renderCurrentReading();
+        checkbox.checked = isDone(reading.seq);
+        checkbox.addEventListener('change', async () => {
+          markDone(reading.seq, checkbox.checked);
+          await saveProgress();
+          await renderCurrentReading();
         });
 
         row.appendChild(checkbox);
         row.append(` ${reading.book} ${reading.reference}`);
         list.appendChild(row);
+      });
+
+      markAllBtn.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        const confirmed = confirm(`Mark all readings in ${month} ${year} as read?`);
+        if (!confirmed) return;
+
+        monthReadings.forEach(reading => markDone(reading.seq, true));
+        await saveProgress();
+        renderAllReadings();
+        renderCurrentReading();
       });
 
       monthHeader.addEventListener('click', () => {
@@ -233,7 +260,7 @@ document.getElementById('toggle-view-btn').addEventListener('click', () => {
 // ---------- Init ----------
 
 (async () => {
-  await loadReadings();
+  await loadData();
   await renderCurrentReading();
 })();
 </script>
