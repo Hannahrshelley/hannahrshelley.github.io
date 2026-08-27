@@ -5,10 +5,14 @@
 <title>Bible Reading Tracker</title>
 <style>
   body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; }
-  #progress { color: #666; margin-bottom: 20px; }
+  #progress { color: #666; margin-bottom: 20px; font-size: 1.1em; }
   #reading-title { font-size: 1.4em; margin-bottom: 10px; }
   #reading-text { line-height: 1.6; white-space: pre-wrap; margin-bottom: 20px; }
-  button { padding: 10px 20px; font-size: 1em; cursor: pointer; }
+  button { padding: 10px 20px; font-size: 1em; cursor: pointer; margin-right: 10px; }
+  #all-readings { margin-top: 20px; border-top: 1px solid #ddd; padding-top: 20px; }
+  #all-readings h2 { margin-top: 24px; }
+  #all-readings h3 { cursor: pointer; user-select: none; margin: 10px 0 4px; }
+  #all-readings label { display: block; padding: 4px 0; }
 </style>
 </head>
 <body>
@@ -17,12 +21,17 @@
 <div id="reading-title"></div>
 <div id="reading-text">Loading text...</div>
 <button id="tick-btn">Mark as read</button>
+<button id="toggle-view-btn">View all readings</button>
 <div id="done-message" style="display:none;">🎉 All caught up!</div>
+<button id="read-ahead-btn" style="display:none;">Read ahead</button>
+
+<div id="all-readings" style="display:none;"></div>
 
 <script>
 let readings = [];
 
-// Load saved progress if it exists, otherwise load the base schedule
+// ---------- Data loading & saving ----------
+
 async function loadReadings() {
   const saved = localStorage.getItem('readings');
   if (saved) {
@@ -42,11 +51,29 @@ function findFirstUnread() {
   return readings.find(r => !r.done);
 }
 
+// ---------- Progress display ----------
+
 function updateProgress() {
-  const total = readings.length;
-  const done = readings.filter(r => r.done).length;
-  document.getElementById('progress').textContent = `${done} / ${total} readings complete`;
+  const current = findFirstUnread();
+  const progressEl = document.getElementById('progress');
+
+  if (!current) {
+    progressEl.textContent = '';
+    return;
+  }
+
+  const date = new Date(current.planned_date + 'T00:00:00');
+  const formatted = date.toLocaleDateString(undefined, {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+
+  progressEl.textContent = `Scheduled for: ${formatted}`;
 }
+
+// ---------- Fetching Bible text ----------
 
 async function fetchReadingText(book, reference) {
   const bookParam = book.toLowerCase().replace(/\s+/g, '+');
@@ -63,18 +90,48 @@ async function fetchReadingText(book, reference) {
   }
 }
 
-async function renderCurrentReading() {
+// ---------- Main "up next" view ----------
+
+async function renderCurrentReading(forceShow = false) {
   updateProgress();
   const current = findFirstUnread();
+  const tickBtn = document.getElementById('tick-btn');
+  const doneMsg = document.getElementById('done-message');
+  const readAheadBtn = document.getElementById('read-ahead-btn');
 
+  // Fully finished the whole plan
   if (!current) {
     document.getElementById('reading-title').textContent = '';
     document.getElementById('reading-text').textContent = '';
-    document.getElementById('tick-btn').style.display = 'none';
-    document.getElementById('done-message').style.display = 'block';
+    tickBtn.style.display = 'none';
+    readAheadBtn.style.display = 'none';
+    doneMsg.textContent = '🎉 You\'ve finished the entire plan!';
+    doneMsg.style.display = 'block';
     return;
   }
 
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const plannedDate = new Date(current.planned_date + 'T00:00:00');
+
+  const isAheadOfSchedule = plannedDate > today && !forceShow;
+
+  if (isAheadOfSchedule) {
+    const formatted = plannedDate.toLocaleDateString(undefined, {
+      weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+    });
+    document.getElementById('reading-title').textContent = '';
+    document.getElementById('reading-text').textContent = '';
+    tickBtn.style.display = 'none';
+    readAheadBtn.style.display = 'inline-block';
+    doneMsg.textContent = `✅ All caught up! Next reading unlocks ${formatted}.`;
+    doneMsg.style.display = 'block';
+    return;
+  }
+
+  doneMsg.style.display = 'none';
+  tickBtn.style.display = 'inline-block';
+  readAheadBtn.style.display = 'none';
   document.getElementById('reading-title').textContent = `${current.book} ${current.reference}`;
   document.getElementById('reading-text').textContent = 'Loading text...';
 
@@ -90,9 +147,91 @@ document.getElementById('tick-btn').addEventListener('click', () => {
   current.completed_date = new Date().toISOString().split('T')[0];
   saveReadings();
   renderCurrentReading();
+
+  // Keep the all-readings view in sync if it's open
+  if (document.getElementById('all-readings').style.display !== 'none') {
+    renderAllReadings();
+  }
 });
 
-// Init
+// ---------- All readings view (grouped by year/month) ----------
+
+function groupByYearMonth(list) {
+  const groups = {};
+  list.forEach(r => {
+    const d = new Date(r.planned_date + 'T00:00:00');
+    const year = d.getFullYear().toString();
+    const month = d.toLocaleDateString(undefined, { month: 'long' });
+    if (!groups[year]) groups[year] = {};
+    if (!groups[year][month]) groups[year][month] = [];
+    groups[year][month].push(r);
+  });
+  return groups;
+}
+
+function renderAllReadings() {
+  const container = document.getElementById('all-readings');
+  container.innerHTML = '';
+  const grouped = groupByYearMonth(readings);
+
+  const today = new Date();
+  const currentYear = today.getFullYear().toString();
+  const currentMonth = today.toLocaleDateString(undefined, { month: 'long' });
+
+  Object.keys(grouped).sort().forEach(year => {
+    const yearHeader = document.createElement('h2');
+    yearHeader.textContent = year;
+    container.appendChild(yearHeader);
+
+    Object.keys(grouped[year]).forEach(month => {
+      const isCurrent = (year === currentYear && month === currentMonth);
+
+      const monthHeader = document.createElement('h3');
+      monthHeader.textContent = month;
+      if (isCurrent) monthHeader.style.fontWeight = 'bold';
+      container.appendChild(monthHeader);
+
+      const list = document.createElement('div');
+      list.style.display = isCurrent ? 'block' : 'none';
+
+      grouped[year][month].forEach(reading => {
+        const row = document.createElement('label');
+
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.checked = reading.done;
+        checkbox.addEventListener('change', () => {
+          reading.done = checkbox.checked;
+          reading.completed_date = checkbox.checked
+            ? new Date().toISOString().split('T')[0]
+            : null;
+          saveReadings();
+          renderCurrentReading();
+        });
+
+        row.appendChild(checkbox);
+        row.append(` ${reading.book} ${reading.reference}`);
+        list.appendChild(row);
+      });
+
+      monthHeader.addEventListener('click', () => {
+        list.style.display = (list.style.display === 'none') ? 'block' : 'none';
+      });
+
+      container.appendChild(list);
+    });
+  });
+}
+
+document.getElementById('toggle-view-btn').addEventListener('click', () => {
+  const container = document.getElementById('all-readings');
+  const isHidden = container.style.display === 'none';
+  container.style.display = isHidden ? 'block' : 'none';
+  if (isHidden) renderAllReadings();
+});
+
+// ---------- Init ----------
+
 (async () => {
   await loadReadings();
   await renderCurrentReading();
