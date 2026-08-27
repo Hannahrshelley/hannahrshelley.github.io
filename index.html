@@ -1,103 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Bible Reading Tracker</title>
-<style>
-  body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; }
-  #progress { color: #666; margin-bottom: 20px; }
-  #reading-title { font-size: 1.4em; margin-bottom: 10px; }
-  #reading-text { line-height: 1.6; white-space: pre-wrap; margin-bottom: 20px; }
-  button { padding: 10px 20px; font-size: 1em; cursor: pointer; }
-</style>
+<meta http-equiv="refresh" content="0; url=https://hannahshelley.neocities.org">
+<title>Hannah Shelley</title>
 </head>
 <body>
-
-<div id="progress">Loading...</div>
-<div id="reading-title"></div>
-<div id="reading-text">Loading text...</div>
-<button id="tick-btn">Mark as read</button>
-<div id="done-message" style="display:none;">🎉 All caught up!</div>
-
-<script>
-let readings = [];
-
-// Load saved progress if it exists, otherwise load the base schedule
-async function loadReadings() {
-  const saved = localStorage.getItem('readings');
-  if (saved) {
-    readings = JSON.parse(saved);
-  } else {
-    const res = await fetch('readings.json');
-    readings = await res.json();
-    saveReadings();
-  }
-}
-
-function saveReadings() {
-  localStorage.setItem('readings', JSON.stringify(readings));
-}
-
-function findFirstUnread() {
-  return readings.find(r => !r.done);
-}
-
-function updateProgress() {
-  const total = readings.length;
-  const done = readings.filter(r => r.done).length;
-  document.getElementById('progress').textContent = `${done} / ${total} readings complete`;
-}
-
-async function fetchReadingText(book, reference) {
-  const bookParam = book.toLowerCase().replace(/\s+/g, '+');
-  const url = `https://bible-api.com/${bookParam}+${reference}`;
-  try {
-    const res = await fetch(url);
-    if (!res.ok) {
-      return `Error: API returned ${res.status} for "${book} ${reference}"`;
-    }
-    const data = await res.json();
-    return data.text || '(No text returned)';
-  } catch (err) {
-    return `Error fetching reading: ${err.message}`;
-  }
-}
-
-async function renderCurrentReading() {
-  updateProgress();
-  const current = findFirstUnread();
-
-  if (!current) {
-    document.getElementById('reading-title').textContent = '';
-    document.getElementById('reading-text').textContent = '';
-    document.getElementById('tick-btn').style.display = 'none';
-    document.getElementById('done-message').style.display = 'block';
-    return;
-  }
-
-  document.getElementById('reading-title').textContent = `${current.book} ${current.reference}`;
-  document.getElementById('reading-text').textContent = 'Loading text...';
-
-  const text = await fetchReadingText(current.book, current.reference);
-  document.getElementById('reading-text').textContent = text;
-}
-
-document.getElementById('tick-btn').addEventListener('click', () => {
-  const current = findFirstUnread();
-  if (!current) return;
-
-  current.done = true;
-  current.completed_date = new Date().toISOString().split('T')[0];
-  saveReadings();
-  renderCurrentReading();
-});
-
-// Init
-(async () => {
-  await loadReadings();
-  await renderCurrentReading();
-})();
-</script>
-
+<p>Site moved to <a href="https://hannahshelley.neocities.org">hannahshelley.neocities.org</a></p>
 </body>
 </html>
