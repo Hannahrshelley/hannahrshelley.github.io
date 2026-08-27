@@ -1,0 +1,9586 @@
+[
+  {
+    "seq": 1,
+    "book": "Genesis",
+    "reference": 1,
+    "planned_date": "2025-01-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 2,
+    "book": "Genesis",
+    "reference": 2,
+    "planned_date": "2025-01-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 3,
+    "book": "Genesis",
+    "reference": 3,
+    "planned_date": "2025-01-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 4,
+    "book": "Genesis",
+    "reference": 4,
+    "planned_date": "2025-01-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 5,
+    "book": "Genesis",
+    "reference": 5,
+    "planned_date": "2025-01-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 6,
+    "book": "Genesis",
+    "reference": 6,
+    "planned_date": "2025-01-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 7,
+    "book": "Genesis",
+    "reference": 7,
+    "planned_date": "2025-01-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 8,
+    "book": "Genesis",
+    "reference": 8,
+    "planned_date": "2025-01-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 9,
+    "book": "Genesis",
+    "reference": 9,
+    "planned_date": "2025-01-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 10,
+    "book": "Genesis",
+    "reference": 10,
+    "planned_date": "2025-01-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 11,
+    "book": "Genesis",
+    "reference": 11,
+    "planned_date": "2025-01-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 12,
+    "book": "Genesis",
+    "reference": 12,
+    "planned_date": "2025-01-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 13,
+    "book": "Genesis",
+    "reference": 13,
+    "planned_date": "2025-01-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 14,
+    "book": "Genesis",
+    "reference": 14,
+    "planned_date": "2025-01-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 15,
+    "book": "Genesis",
+    "reference": 15,
+    "planned_date": "2025-01-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 16,
+    "book": "Psalms",
+    "reference": 1,
+    "planned_date": "2025-01-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 17,
+    "book": "Genesis",
+    "reference": 16,
+    "planned_date": "2025-01-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 18,
+    "book": "Genesis",
+    "reference": 17,
+    "planned_date": "2025-01-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 19,
+    "book": "Genesis",
+    "reference": 18,
+    "planned_date": "2025-01-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 20,
+    "book": "Genesis",
+    "reference": 19,
+    "planned_date": "2025-01-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 21,
+    "book": "Genesis",
+    "reference": 20,
+    "planned_date": "2025-01-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 22,
+    "book": "Psalms",
+    "reference": 2,
+    "planned_date": "2025-01-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 23,
+    "book": "Genesis",
+    "reference": 21,
+    "planned_date": "2025-01-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 24,
+    "book": "Genesis",
+    "reference": 22,
+    "planned_date": "2025-01-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 25,
+    "book": "Genesis",
+    "reference": 23,
+    "planned_date": "2025-01-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 26,
+    "book": "Genesis",
+    "reference": 24,
+    "planned_date": "2025-01-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 27,
+    "book": "Psalms",
+    "reference": 3,
+    "planned_date": "2025-02-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 28,
+    "book": "Genesis",
+    "reference": 25,
+    "planned_date": "2025-02-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 29,
+    "book": "Genesis",
+    "reference": 26,
+    "planned_date": "2025-02-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 30,
+    "book": "Genesis",
+    "reference": 27,
+    "planned_date": "2025-02-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 31,
+    "book": "Genesis",
+    "reference": 28,
+    "planned_date": "2025-02-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 32,
+    "book": "Psalms",
+    "reference": 4,
+    "planned_date": "2025-02-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 33,
+    "book": "Genesis",
+    "reference": 29,
+    "planned_date": "2025-02-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 34,
+    "book": "Genesis",
+    "reference": 30,
+    "planned_date": "2025-02-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 35,
+    "book": "Genesis",
+    "reference": 31,
+    "planned_date": "2025-02-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 36,
+    "book": "Psalms",
+    "reference": 5,
+    "planned_date": "2025-02-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 37,
+    "book": "Genesis",
+    "reference": 32,
+    "planned_date": "2025-02-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 38,
+    "book": "Genesis",
+    "reference": 33,
+    "planned_date": "2025-02-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 39,
+    "book": "Genesis",
+    "reference": 34,
+    "planned_date": "2025-02-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 40,
+    "book": "Genesis",
+    "reference": 35,
+    "planned_date": "2025-02-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 41,
+    "book": "Genesis",
+    "reference": 36,
+    "planned_date": "2025-02-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 42,
+    "book": "Psalms",
+    "reference": 6,
+    "planned_date": "2025-02-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 43,
+    "book": "Genesis",
+    "reference": 37,
+    "planned_date": "2025-02-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 44,
+    "book": "Genesis",
+    "reference": 38,
+    "planned_date": "2025-02-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 45,
+    "book": "Genesis",
+    "reference": 39,
+    "planned_date": "2025-02-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 46,
+    "book": "Genesis",
+    "reference": 40,
+    "planned_date": "2025-03-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 47,
+    "book": "Psalms",
+    "reference": 7,
+    "planned_date": "2025-03-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 48,
+    "book": "Genesis",
+    "reference": 41,
+    "planned_date": "2025-03-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 49,
+    "book": "Genesis",
+    "reference": 42,
+    "planned_date": "2025-03-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 50,
+    "book": "Genesis",
+    "reference": 43,
+    "planned_date": "2025-03-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 51,
+    "book": "Psalms",
+    "reference": 8,
+    "planned_date": "2025-03-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 52,
+    "book": "Genesis",
+    "reference": 44,
+    "planned_date": "2025-03-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 53,
+    "book": "Genesis",
+    "reference": 45,
+    "planned_date": "2025-03-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 54,
+    "book": "Genesis",
+    "reference": 46,
+    "planned_date": "2025-03-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 55,
+    "book": "Genesis",
+    "reference": 47,
+    "planned_date": "2025-03-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 56,
+    "book": "Genesis",
+    "reference": 48,
+    "planned_date": "2025-03-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 57,
+    "book": "Psalms",
+    "reference": 9,
+    "planned_date": "2025-03-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 58,
+    "book": "Genesis",
+    "reference": 49,
+    "planned_date": "2025-03-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 59,
+    "book": "Genesis",
+    "reference": 50,
+    "planned_date": "2025-03-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 60,
+    "book": "Matthew",
+    "reference": 1,
+    "planned_date": "2025-03-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 61,
+    "book": "Matthew",
+    "reference": 2,
+    "planned_date": "2025-03-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 62,
+    "book": "Matthew",
+    "reference": 3,
+    "planned_date": "2025-03-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 63,
+    "book": "Psalms",
+    "reference": 10,
+    "planned_date": "2025-03-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 64,
+    "book": "Matthew",
+    "reference": 4,
+    "planned_date": "2025-03-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 65,
+    "book": "Matthew",
+    "reference": 5,
+    "planned_date": "2025-03-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 66,
+    "book": "Matthew",
+    "reference": 6,
+    "planned_date": "2025-03-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 67,
+    "book": "Matthew",
+    "reference": 7,
+    "planned_date": "2025-03-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 68,
+    "book": "Matthew",
+    "reference": 8,
+    "planned_date": "2025-03-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 69,
+    "book": "Psalms",
+    "reference": 11,
+    "planned_date": "2025-03-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 70,
+    "book": "Matthew",
+    "reference": 9,
+    "planned_date": "2025-03-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 71,
+    "book": "Matthew",
+    "reference": 10,
+    "planned_date": "2025-04-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 72,
+    "book": "Matthew",
+    "reference": 11,
+    "planned_date": "2025-04-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 73,
+    "book": "Matthew",
+    "reference": 12,
+    "planned_date": "2025-04-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 74,
+    "book": "Matthew",
+    "reference": 13,
+    "planned_date": "2025-04-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 75,
+    "book": "Matthew",
+    "reference": 14,
+    "planned_date": "2025-04-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 76,
+    "book": "Psalms",
+    "reference": 12,
+    "planned_date": "2025-04-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 77,
+    "book": "Matthew",
+    "reference": 15,
+    "planned_date": "2025-04-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 78,
+    "book": "Matthew",
+    "reference": 16,
+    "planned_date": "2025-04-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 79,
+    "book": "Matthew",
+    "reference": 17,
+    "planned_date": "2025-04-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 80,
+    "book": "Matthew",
+    "reference": 18,
+    "planned_date": "2025-04-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 81,
+    "book": "Matthew",
+    "reference": 19,
+    "planned_date": "2025-04-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 82,
+    "book": "Matthew",
+    "reference": 20,
+    "planned_date": "2025-04-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 83,
+    "book": "Matthew",
+    "reference": 21,
+    "planned_date": "2025-04-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 84,
+    "book": "Psalms",
+    "reference": 13,
+    "planned_date": "2025-04-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 85,
+    "book": "Matthew",
+    "reference": 22,
+    "planned_date": "2025-04-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 86,
+    "book": "Matthew",
+    "reference": 23,
+    "planned_date": "2025-04-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 87,
+    "book": "Matthew",
+    "reference": 24,
+    "planned_date": "2025-04-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 88,
+    "book": "Matthew",
+    "reference": 25,
+    "planned_date": "2025-04-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 89,
+    "book": "Matthew",
+    "reference": 26,
+    "planned_date": "2025-04-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 90,
+    "book": "Matthew",
+    "reference": 27,
+    "planned_date": "2025-04-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 91,
+    "book": "Matthew",
+    "reference": 28,
+    "planned_date": "2025-04-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 92,
+    "book": "Psalms",
+    "reference": 14,
+    "planned_date": "2025-04-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 93,
+    "book": "Exodus",
+    "reference": 1,
+    "planned_date": "2025-04-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 94,
+    "book": "Exodus",
+    "reference": 2,
+    "planned_date": "2025-04-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 95,
+    "book": "Exodus",
+    "reference": 3,
+    "planned_date": "2025-04-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 96,
+    "book": "Psalms",
+    "reference": 15,
+    "planned_date": "2025-04-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 97,
+    "book": "Exodus",
+    "reference": 4,
+    "planned_date": "2025-04-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 98,
+    "book": "Exodus",
+    "reference": 5,
+    "planned_date": "2025-04-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 99,
+    "book": "Exodus",
+    "reference": 6,
+    "planned_date": "2025-05-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 100,
+    "book": "Exodus",
+    "reference": 7,
+    "planned_date": "2025-05-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 101,
+    "book": "Psalms",
+    "reference": 16,
+    "planned_date": "2025-05-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 102,
+    "book": "Exodus",
+    "reference": 8,
+    "planned_date": "2025-05-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 103,
+    "book": "Exodus",
+    "reference": 9,
+    "planned_date": "2025-05-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 104,
+    "book": "Exodus",
+    "reference": 10,
+    "planned_date": "2025-05-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 105,
+    "book": "Exodus",
+    "reference": 11,
+    "planned_date": "2025-05-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 106,
+    "book": "Psalms",
+    "reference": 17,
+    "planned_date": "2025-05-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 107,
+    "book": "Exodus",
+    "reference": 12,
+    "planned_date": "2025-05-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 108,
+    "book": "Exodus",
+    "reference": 13,
+    "planned_date": "2025-05-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 109,
+    "book": "Exodus",
+    "reference": 14,
+    "planned_date": "2025-05-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 110,
+    "book": "Exodus",
+    "reference": 15,
+    "planned_date": "2025-05-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 111,
+    "book": "Exodus",
+    "reference": 16,
+    "planned_date": "2025-05-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 112,
+    "book": "Exodus",
+    "reference": 17,
+    "planned_date": "2025-05-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 113,
+    "book": "Exodus",
+    "reference": 18,
+    "planned_date": "2025-05-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 114,
+    "book": "Exodus",
+    "reference": 19,
+    "planned_date": "2025-05-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 115,
+    "book": "Exodus",
+    "reference": 20,
+    "planned_date": "2025-05-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 116,
+    "book": "Exodus",
+    "reference": 21,
+    "planned_date": "2025-05-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 117,
+    "book": "Psalms",
+    "reference": 18,
+    "planned_date": "2025-06-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 118,
+    "book": "Exodus",
+    "reference": 22,
+    "planned_date": "2025-06-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 119,
+    "book": "Exodus",
+    "reference": 23,
+    "planned_date": "2025-06-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 120,
+    "book": "Exodus",
+    "reference": 24,
+    "planned_date": "2025-06-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 121,
+    "book": "Exodus",
+    "reference": 25,
+    "planned_date": "2025-06-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 122,
+    "book": "Exodus",
+    "reference": 26,
+    "planned_date": "2025-06-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 123,
+    "book": "Psalms",
+    "reference": 19,
+    "planned_date": "2025-06-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 124,
+    "book": "Exodus",
+    "reference": 27,
+    "planned_date": "2025-06-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 125,
+    "book": "Exodus",
+    "reference": 28,
+    "planned_date": "2025-06-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 126,
+    "book": "Exodus",
+    "reference": 29,
+    "planned_date": "2025-06-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 127,
+    "book": "Psalms",
+    "reference": 20,
+    "planned_date": "2025-06-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 128,
+    "book": "Exodus",
+    "reference": 30,
+    "planned_date": "2025-06-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 129,
+    "book": "Exodus",
+    "reference": 31,
+    "planned_date": "2025-06-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 130,
+    "book": "Exodus",
+    "reference": 32,
+    "planned_date": "2025-06-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 131,
+    "book": "Exodus",
+    "reference": 33,
+    "planned_date": "2025-06-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 132,
+    "book": "Psalms",
+    "reference": 21,
+    "planned_date": "2025-06-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 133,
+    "book": "Exodus",
+    "reference": 34,
+    "planned_date": "2025-06-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 134,
+    "book": "Exodus",
+    "reference": 35,
+    "planned_date": "2025-07-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 135,
+    "book": "Exodus",
+    "reference": 36,
+    "planned_date": "2025-07-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 136,
+    "book": "Exodus",
+    "reference": 37,
+    "planned_date": "2025-07-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 137,
+    "book": "Exodus",
+    "reference": 38,
+    "planned_date": "2025-07-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 138,
+    "book": "Exodus",
+    "reference": 39,
+    "planned_date": "2025-07-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 139,
+    "book": "Exodus",
+    "reference": 40,
+    "planned_date": "2025-07-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 140,
+    "book": "Leviticus",
+    "reference": 1,
+    "planned_date": "2025-07-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 141,
+    "book": "Psalms",
+    "reference": 22,
+    "planned_date": "2025-07-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 142,
+    "book": "Leviticus",
+    "reference": 2,
+    "planned_date": "2025-07-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 143,
+    "book": "Leviticus",
+    "reference": 3,
+    "planned_date": "2025-07-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 144,
+    "book": "Leviticus",
+    "reference": 4,
+    "planned_date": "2025-07-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 145,
+    "book": "Leviticus",
+    "reference": 5,
+    "planned_date": "2025-07-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 146,
+    "book": "Leviticus",
+    "reference": 6,
+    "planned_date": "2025-07-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 147,
+    "book": "Leviticus",
+    "reference": 7,
+    "planned_date": "2025-07-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 148,
+    "book": "Leviticus",
+    "reference": 8,
+    "planned_date": "2025-07-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 149,
+    "book": "Leviticus",
+    "reference": 9,
+    "planned_date": "2025-07-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 150,
+    "book": "Leviticus",
+    "reference": 10,
+    "planned_date": "2025-07-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 151,
+    "book": "Psalms",
+    "reference": 23,
+    "planned_date": "2025-07-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 152,
+    "book": "Leviticus",
+    "reference": 11,
+    "planned_date": "2025-07-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 153,
+    "book": "Leviticus",
+    "reference": 12,
+    "planned_date": "2025-07-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 154,
+    "book": "Leviticus",
+    "reference": 13,
+    "planned_date": "2025-08-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 155,
+    "book": "Psalms",
+    "reference": 24,
+    "planned_date": "2025-08-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 156,
+    "book": "Leviticus",
+    "reference": 14,
+    "planned_date": "2025-08-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 157,
+    "book": "Leviticus",
+    "reference": 15,
+    "planned_date": "2025-08-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 158,
+    "book": "Leviticus",
+    "reference": 16,
+    "planned_date": "2025-08-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 159,
+    "book": "Psalms",
+    "reference": 25,
+    "planned_date": "2025-08-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 160,
+    "book": "Leviticus",
+    "reference": 17,
+    "planned_date": "2025-08-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 161,
+    "book": "Leviticus",
+    "reference": 18,
+    "planned_date": "2025-08-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 162,
+    "book": "Leviticus",
+    "reference": 19,
+    "planned_date": "2025-08-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 163,
+    "book": "Leviticus",
+    "reference": 20,
+    "planned_date": "2025-08-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 164,
+    "book": "Psalms",
+    "reference": 26,
+    "planned_date": "2025-08-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 165,
+    "book": "Leviticus",
+    "reference": 21,
+    "planned_date": "2025-08-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 166,
+    "book": "Leviticus",
+    "reference": 22,
+    "planned_date": "2025-08-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 167,
+    "book": "Leviticus",
+    "reference": 23,
+    "planned_date": "2025-08-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 168,
+    "book": "Leviticus",
+    "reference": 24,
+    "planned_date": "2025-08-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 169,
+    "book": "Psalms",
+    "reference": 27,
+    "planned_date": "2025-08-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 170,
+    "book": "Leviticus",
+    "reference": 25,
+    "planned_date": "2025-08-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 171,
+    "book": "Leviticus",
+    "reference": 26,
+    "planned_date": "2025-08-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 172,
+    "book": "Leviticus",
+    "reference": 27,
+    "planned_date": "2025-08-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 173,
+    "book": "Numbers",
+    "reference": 1,
+    "planned_date": "2025-09-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 174,
+    "book": "Numbers",
+    "reference": 2,
+    "planned_date": "2025-09-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 175,
+    "book": "Numbers",
+    "reference": 3,
+    "planned_date": "2025-09-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 176,
+    "book": "Psalms",
+    "reference": 28,
+    "planned_date": "2025-09-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 177,
+    "book": "Numbers",
+    "reference": 4,
+    "planned_date": "2025-09-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 178,
+    "book": "Numbers",
+    "reference": 5,
+    "planned_date": "2025-09-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 179,
+    "book": "Numbers",
+    "reference": 6,
+    "planned_date": "2025-09-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 180,
+    "book": "Psalms",
+    "reference": 29,
+    "planned_date": "2025-09-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 181,
+    "book": "Numbers",
+    "reference": 7,
+    "planned_date": "2025-09-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 182,
+    "book": "Numbers",
+    "reference": 8,
+    "planned_date": "2025-09-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 183,
+    "book": "Numbers",
+    "reference": 9,
+    "planned_date": "2025-09-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 184,
+    "book": "Psalms",
+    "reference": 30,
+    "planned_date": "2025-09-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 185,
+    "book": "Numbers",
+    "reference": 10,
+    "planned_date": "2025-09-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 186,
+    "book": "Numbers",
+    "reference": 11,
+    "planned_date": "2025-09-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 187,
+    "book": "Numbers",
+    "reference": 12,
+    "planned_date": "2025-09-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 188,
+    "book": "Numbers",
+    "reference": 13,
+    "planned_date": "2025-09-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 189,
+    "book": "Psalms",
+    "reference": 31,
+    "planned_date": "2025-09-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 190,
+    "book": "Numbers",
+    "reference": 14,
+    "planned_date": "2025-09-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 191,
+    "book": "Numbers",
+    "reference": 15,
+    "planned_date": "2025-10-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 192,
+    "book": "Numbers",
+    "reference": 16,
+    "planned_date": "2025-10-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 193,
+    "book": "Numbers",
+    "reference": 17,
+    "planned_date": "2025-10-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 194,
+    "book": "Numbers",
+    "reference": 18,
+    "planned_date": "2025-10-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 195,
+    "book": "Numbers",
+    "reference": 19,
+    "planned_date": "2025-10-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 196,
+    "book": "Numbers",
+    "reference": 20,
+    "planned_date": "2025-10-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 197,
+    "book": "Numbers",
+    "reference": 21,
+    "planned_date": "2025-10-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 198,
+    "book": "Numbers",
+    "reference": 22,
+    "planned_date": "2025-10-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 199,
+    "book": "Psalms",
+    "reference": 32,
+    "planned_date": "2025-10-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 200,
+    "book": "Numbers",
+    "reference": 23,
+    "planned_date": "2025-10-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 201,
+    "book": "Numbers",
+    "reference": 24,
+    "planned_date": "2025-10-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 202,
+    "book": "Numbers",
+    "reference": 25,
+    "planned_date": "2025-10-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 203,
+    "book": "Numbers",
+    "reference": 26,
+    "planned_date": "2025-10-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 204,
+    "book": "Numbers",
+    "reference": 27,
+    "planned_date": "2025-10-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 205,
+    "book": "Numbers",
+    "reference": 28,
+    "planned_date": "2025-10-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 206,
+    "book": "Numbers",
+    "reference": 29,
+    "planned_date": "2025-10-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 207,
+    "book": "Psalms",
+    "reference": 33,
+    "planned_date": "2025-10-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 208,
+    "book": "Numbers",
+    "reference": 30,
+    "planned_date": "2025-10-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 209,
+    "book": "Numbers",
+    "reference": 31,
+    "planned_date": "2025-10-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 210,
+    "book": "Numbers",
+    "reference": 32,
+    "planned_date": "2025-11-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 211,
+    "book": "Psalms",
+    "reference": 34,
+    "planned_date": "2025-11-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 212,
+    "book": "Numbers",
+    "reference": 33,
+    "planned_date": "2025-11-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 213,
+    "book": "Numbers",
+    "reference": 34,
+    "planned_date": "2025-11-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 214,
+    "book": "Numbers",
+    "reference": 35,
+    "planned_date": "2025-11-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 215,
+    "book": "Numbers",
+    "reference": 36,
+    "planned_date": "2025-11-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 216,
+    "book": "Acts",
+    "reference": 1,
+    "planned_date": "2025-11-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 217,
+    "book": "Acts",
+    "reference": 2,
+    "planned_date": "2025-11-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 218,
+    "book": "Acts",
+    "reference": 3,
+    "planned_date": "2025-11-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 219,
+    "book": "Psalms",
+    "reference": 35,
+    "planned_date": "2025-11-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 220,
+    "book": "Acts",
+    "reference": 4,
+    "planned_date": "2025-11-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 221,
+    "book": "Acts",
+    "reference": 5,
+    "planned_date": "2025-11-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 222,
+    "book": "Acts",
+    "reference": 6,
+    "planned_date": "2025-11-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 223,
+    "book": "Acts",
+    "reference": 7,
+    "planned_date": "2025-11-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 224,
+    "book": "Acts",
+    "reference": 8,
+    "planned_date": "2025-11-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 225,
+    "book": "Acts",
+    "reference": 9,
+    "planned_date": "2025-11-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 226,
+    "book": "Acts",
+    "reference": 10,
+    "planned_date": "2025-11-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 227,
+    "book": "Psalms",
+    "reference": 36,
+    "planned_date": "2025-11-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 228,
+    "book": "Acts",
+    "reference": 11,
+    "planned_date": "2025-12-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 229,
+    "book": "Acts",
+    "reference": 12,
+    "planned_date": "2025-12-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 230,
+    "book": "Acts",
+    "reference": 13,
+    "planned_date": "2025-12-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 231,
+    "book": "Acts",
+    "reference": 14,
+    "planned_date": "2025-12-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 232,
+    "book": "Acts",
+    "reference": 15,
+    "planned_date": "2025-12-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 233,
+    "book": "Acts",
+    "reference": 16,
+    "planned_date": "2025-12-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 234,
+    "book": "Acts",
+    "reference": 17,
+    "planned_date": "2025-12-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 235,
+    "book": "Acts",
+    "reference": 18,
+    "planned_date": "2025-12-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 236,
+    "book": "Acts",
+    "reference": 19,
+    "planned_date": "2025-12-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 237,
+    "book": "Acts",
+    "reference": 20,
+    "planned_date": "2025-12-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 238,
+    "book": "Acts",
+    "reference": 21,
+    "planned_date": "2025-12-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 239,
+    "book": "Acts",
+    "reference": 22,
+    "planned_date": "2025-12-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 240,
+    "book": "Psalms",
+    "reference": 37,
+    "planned_date": "2025-12-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 241,
+    "book": "Acts",
+    "reference": 23,
+    "planned_date": "2025-12-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 242,
+    "book": "Acts",
+    "reference": 24,
+    "planned_date": "2025-12-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 243,
+    "book": "Acts",
+    "reference": 25,
+    "planned_date": "2025-12-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 244,
+    "book": "Acts",
+    "reference": 26,
+    "planned_date": "2025-12-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 245,
+    "book": "Acts",
+    "reference": 27,
+    "planned_date": "2025-12-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 246,
+    "book": "Acts",
+    "reference": 28,
+    "planned_date": "2025-12-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 247,
+    "book": "Deuteronomy",
+    "reference": 1,
+    "planned_date": "2026-01-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 248,
+    "book": "Psalms",
+    "reference": 38,
+    "planned_date": "2026-01-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 249,
+    "book": "Deuteronomy",
+    "reference": 2,
+    "planned_date": "2026-01-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 250,
+    "book": "Deuteronomy",
+    "reference": 3,
+    "planned_date": "2026-01-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 251,
+    "book": "Deuteronomy",
+    "reference": 4,
+    "planned_date": "2026-01-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 252,
+    "book": "Deuteronomy",
+    "reference": 5,
+    "planned_date": "2026-01-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 253,
+    "book": "Deuteronomy",
+    "reference": 6,
+    "planned_date": "2026-01-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 254,
+    "book": "Deuteronomy",
+    "reference": 7,
+    "planned_date": "2026-01-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 255,
+    "book": "Deuteronomy",
+    "reference": 8,
+    "planned_date": "2026-01-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 256,
+    "book": "Deuteronomy",
+    "reference": 9,
+    "planned_date": "2026-01-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 257,
+    "book": "Psalms",
+    "reference": 39,
+    "planned_date": "2026-01-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 258,
+    "book": "Deuteronomy",
+    "reference": 10,
+    "planned_date": "2026-01-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 259,
+    "book": "Deuteronomy",
+    "reference": 11,
+    "planned_date": "2026-01-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 260,
+    "book": "Deuteronomy",
+    "reference": 12,
+    "planned_date": "2026-01-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 261,
+    "book": "Deuteronomy",
+    "reference": 13,
+    "planned_date": "2026-01-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 262,
+    "book": "Psalms",
+    "reference": 40,
+    "planned_date": "2026-01-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 263,
+    "book": "Deuteronomy",
+    "reference": 14,
+    "planned_date": "2026-01-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 264,
+    "book": "Deuteronomy",
+    "reference": 15,
+    "planned_date": "2026-01-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 265,
+    "book": "Deuteronomy",
+    "reference": 16,
+    "planned_date": "2026-01-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 266,
+    "book": "Deuteronomy",
+    "reference": 17,
+    "planned_date": "2026-01-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 267,
+    "book": "Deuteronomy",
+    "reference": 18,
+    "planned_date": "2026-02-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 268,
+    "book": "Deuteronomy",
+    "reference": 19,
+    "planned_date": "2026-02-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 269,
+    "book": "Deuteronomy",
+    "reference": 20,
+    "planned_date": "2026-02-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 270,
+    "book": "Deuteronomy",
+    "reference": 21,
+    "planned_date": "2026-02-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 271,
+    "book": "Deuteronomy",
+    "reference": 22,
+    "planned_date": "2026-02-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 272,
+    "book": "Psalms",
+    "reference": 41,
+    "planned_date": "2026-02-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 273,
+    "book": "Deuteronomy",
+    "reference": 23,
+    "planned_date": "2026-02-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 274,
+    "book": "Deuteronomy",
+    "reference": 24,
+    "planned_date": "2026-02-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 275,
+    "book": "Deuteronomy",
+    "reference": 25,
+    "planned_date": "2026-02-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 276,
+    "book": "Deuteronomy",
+    "reference": 26,
+    "planned_date": "2026-02-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 277,
+    "book": "Deuteronomy",
+    "reference": 27,
+    "planned_date": "2026-02-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 278,
+    "book": "Psalms",
+    "reference": 42,
+    "planned_date": "2026-02-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 279,
+    "book": "Deuteronomy",
+    "reference": 28,
+    "planned_date": "2026-02-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 280,
+    "book": "Deuteronomy",
+    "reference": 29,
+    "planned_date": "2026-02-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 281,
+    "book": "Deuteronomy",
+    "reference": 30,
+    "planned_date": "2026-02-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 282,
+    "book": "Psalms",
+    "reference": 43,
+    "planned_date": "2026-02-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 283,
+    "book": "Deuteronomy",
+    "reference": 31,
+    "planned_date": "2026-02-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 284,
+    "book": "Deuteronomy",
+    "reference": 32,
+    "planned_date": "2026-02-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 285,
+    "book": "Deuteronomy",
+    "reference": 33,
+    "planned_date": "2026-02-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 286,
+    "book": "Psalms",
+    "reference": 44,
+    "planned_date": "2026-03-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 287,
+    "book": "Deuteronomy",
+    "reference": 34,
+    "planned_date": "2026-03-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 288,
+    "book": "1 Thessalonians",
+    "reference": 1,
+    "planned_date": "2026-03-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 289,
+    "book": "1 Thessalonians",
+    "reference": 2,
+    "planned_date": "2026-03-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 290,
+    "book": "1 Thessalonians",
+    "reference": 3,
+    "planned_date": "2026-03-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 291,
+    "book": "1 Thessalonians",
+    "reference": 4,
+    "planned_date": "2026-03-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 292,
+    "book": "Psalms",
+    "reference": 45,
+    "planned_date": "2026-03-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 293,
+    "book": "1 Thessalonians",
+    "reference": 5,
+    "planned_date": "2026-03-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 294,
+    "book": "Mark",
+    "reference": 1,
+    "planned_date": "2026-03-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 295,
+    "book": "Mark",
+    "reference": 2,
+    "planned_date": "2026-03-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 296,
+    "book": "Psalms",
+    "reference": 46,
+    "planned_date": "2026-03-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 297,
+    "book": "Mark",
+    "reference": 3,
+    "planned_date": "2026-03-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 298,
+    "book": "Mark",
+    "reference": 4,
+    "planned_date": "2026-03-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 299,
+    "book": "Mark",
+    "reference": 5,
+    "planned_date": "2026-03-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 300,
+    "book": "Mark",
+    "reference": 6,
+    "planned_date": "2026-03-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 301,
+    "book": "Psalms",
+    "reference": 47,
+    "planned_date": "2026-03-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 302,
+    "book": "Mark",
+    "reference": 7,
+    "planned_date": "2026-03-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 303,
+    "book": "Mark",
+    "reference": 8,
+    "planned_date": "2026-03-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 304,
+    "book": "Mark",
+    "reference": 9,
+    "planned_date": "2026-03-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 305,
+    "book": "Mark",
+    "reference": 10,
+    "planned_date": "2026-03-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 306,
+    "book": "Mark",
+    "reference": 11,
+    "planned_date": "2026-03-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 307,
+    "book": "Psalms",
+    "reference": 48,
+    "planned_date": "2026-03-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 308,
+    "book": "Mark",
+    "reference": 12,
+    "planned_date": "2026-03-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 309,
+    "book": "Mark",
+    "reference": 13,
+    "planned_date": "2026-04-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 310,
+    "book": "Mark",
+    "reference": 14,
+    "planned_date": "2026-04-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 311,
+    "book": "Mark",
+    "reference": 15,
+    "planned_date": "2026-04-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 312,
+    "book": "Mark",
+    "reference": 16,
+    "planned_date": "2026-04-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 313,
+    "book": "Joshua",
+    "reference": 1,
+    "planned_date": "2026-04-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 314,
+    "book": "Joshua",
+    "reference": 2,
+    "planned_date": "2026-04-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 315,
+    "book": "Joshua",
+    "reference": 3,
+    "planned_date": "2026-04-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 316,
+    "book": "Joshua",
+    "reference": 4,
+    "planned_date": "2026-04-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 317,
+    "book": "Joshua",
+    "reference": 5,
+    "planned_date": "2026-04-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 318,
+    "book": "Joshua",
+    "reference": 6,
+    "planned_date": "2026-04-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 319,
+    "book": "Joshua",
+    "reference": 7,
+    "planned_date": "2026-04-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 320,
+    "book": "Joshua",
+    "reference": 8,
+    "planned_date": "2026-04-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 321,
+    "book": "Joshua",
+    "reference": 9,
+    "planned_date": "2026-04-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 322,
+    "book": "Joshua",
+    "reference": 10,
+    "planned_date": "2026-04-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 323,
+    "book": "Joshua",
+    "reference": 11,
+    "planned_date": "2026-04-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 324,
+    "book": "Joshua",
+    "reference": 12,
+    "planned_date": "2026-04-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 325,
+    "book": "Joshua",
+    "reference": 13,
+    "planned_date": "2026-04-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 326,
+    "book": "Joshua",
+    "reference": 14,
+    "planned_date": "2026-04-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 327,
+    "book": "Joshua",
+    "reference": 15,
+    "planned_date": "2026-04-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 328,
+    "book": "Joshua",
+    "reference": 16,
+    "planned_date": "2026-04-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 329,
+    "book": "Psalms",
+    "reference": 49,
+    "planned_date": "2026-04-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 330,
+    "book": "Joshua",
+    "reference": 17,
+    "planned_date": "2026-04-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 331,
+    "book": "Joshua",
+    "reference": 18,
+    "planned_date": "2026-04-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 332,
+    "book": "Joshua",
+    "reference": 19,
+    "planned_date": "2026-04-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 333,
+    "book": "Joshua",
+    "reference": 20,
+    "planned_date": "2026-04-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 334,
+    "book": "Joshua",
+    "reference": 21,
+    "planned_date": "2026-04-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 335,
+    "book": "Joshua",
+    "reference": 22,
+    "planned_date": "2026-04-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 336,
+    "book": "Joshua",
+    "reference": 23,
+    "planned_date": "2026-04-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 337,
+    "book": "Joshua",
+    "reference": 24,
+    "planned_date": "2026-04-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 338,
+    "book": "Judges",
+    "reference": 1,
+    "planned_date": "2026-04-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 339,
+    "book": "Judges",
+    "reference": 2,
+    "planned_date": "2026-04-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 340,
+    "book": "Judges",
+    "reference": 3,
+    "planned_date": "2026-05-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 341,
+    "book": "Judges",
+    "reference": 4,
+    "planned_date": "2026-05-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 342,
+    "book": "Judges",
+    "reference": 5,
+    "planned_date": "2026-05-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 343,
+    "book": "Psalms",
+    "reference": 50,
+    "planned_date": "2026-05-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 344,
+    "book": "Judges",
+    "reference": 6,
+    "planned_date": "2026-05-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 345,
+    "book": "Judges",
+    "reference": 7,
+    "planned_date": "2026-05-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 346,
+    "book": "Judges",
+    "reference": 8,
+    "planned_date": "2026-05-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 347,
+    "book": "Judges",
+    "reference": 9,
+    "planned_date": "2026-05-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 348,
+    "book": "Psalms",
+    "reference": 51,
+    "planned_date": "2026-05-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 349,
+    "book": "Judges",
+    "reference": 10,
+    "planned_date": "2026-05-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 350,
+    "book": "Judges",
+    "reference": 11,
+    "planned_date": "2026-05-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 351,
+    "book": "Judges",
+    "reference": 12,
+    "planned_date": "2026-05-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 352,
+    "book": "Judges",
+    "reference": 13,
+    "planned_date": "2026-05-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 353,
+    "book": "Judges",
+    "reference": 14,
+    "planned_date": "2026-05-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 354,
+    "book": "Judges",
+    "reference": 15,
+    "planned_date": "2026-05-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 355,
+    "book": "Judges",
+    "reference": 16,
+    "planned_date": "2026-05-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 356,
+    "book": "Judges",
+    "reference": 17,
+    "planned_date": "2026-05-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 357,
+    "book": "Judges",
+    "reference": 18,
+    "planned_date": "2026-05-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 358,
+    "book": "Psalms",
+    "reference": 52,
+    "planned_date": "2026-05-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 359,
+    "book": "Judges",
+    "reference": 19,
+    "planned_date": "2026-05-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 360,
+    "book": "Judges",
+    "reference": 20,
+    "planned_date": "2026-05-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 361,
+    "book": "Judges",
+    "reference": 21,
+    "planned_date": "2026-05-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 362,
+    "book": "Ruth",
+    "reference": 1,
+    "planned_date": "2026-05-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 363,
+    "book": "Ruth",
+    "reference": 2,
+    "planned_date": "2026-05-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 364,
+    "book": "Ruth",
+    "reference": 3,
+    "planned_date": "2026-05-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 365,
+    "book": "Psalms",
+    "reference": 53,
+    "planned_date": "2026-05-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 366,
+    "book": "Ruth",
+    "reference": 4,
+    "planned_date": "2026-06-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 367,
+    "book": "Job",
+    "reference": 1,
+    "planned_date": "2026-06-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 368,
+    "book": "Job",
+    "reference": 2,
+    "planned_date": "2026-06-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 369,
+    "book": "Job",
+    "reference": 3,
+    "planned_date": "2026-06-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 370,
+    "book": "Job",
+    "reference": 4,
+    "planned_date": "2026-06-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 371,
+    "book": "Job",
+    "reference": 5,
+    "planned_date": "2026-06-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 372,
+    "book": "Psalms",
+    "reference": 54,
+    "planned_date": "2026-06-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 373,
+    "book": "Job",
+    "reference": 6,
+    "planned_date": "2026-06-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 374,
+    "book": "Job",
+    "reference": 7,
+    "planned_date": "2026-06-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 375,
+    "book": "Job",
+    "reference": 8,
+    "planned_date": "2026-06-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 376,
+    "book": "Job",
+    "reference": 9,
+    "planned_date": "2026-06-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 377,
+    "book": "Job",
+    "reference": 10,
+    "planned_date": "2026-06-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 378,
+    "book": "Job",
+    "reference": 11,
+    "planned_date": "2026-06-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 379,
+    "book": "Psalms",
+    "reference": 55,
+    "planned_date": "2026-06-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 380,
+    "book": "Job",
+    "reference": 12,
+    "planned_date": "2026-06-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 381,
+    "book": "Job",
+    "reference": 13,
+    "planned_date": "2026-06-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 382,
+    "book": "Job",
+    "reference": 14,
+    "planned_date": "2026-06-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 383,
+    "book": "Job",
+    "reference": 15,
+    "planned_date": "2026-06-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 384,
+    "book": "Job",
+    "reference": 16,
+    "planned_date": "2026-06-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 385,
+    "book": "Job",
+    "reference": 17,
+    "planned_date": "2026-06-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 386,
+    "book": "Psalms",
+    "reference": 56,
+    "planned_date": "2026-06-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 387,
+    "book": "Job",
+    "reference": 18,
+    "planned_date": "2026-06-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 388,
+    "book": "Job",
+    "reference": 19,
+    "planned_date": "2026-06-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 389,
+    "book": "Job",
+    "reference": 20,
+    "planned_date": "2026-06-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 390,
+    "book": "Job",
+    "reference": 21,
+    "planned_date": "2026-06-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 391,
+    "book": "Job",
+    "reference": 22,
+    "planned_date": "2026-06-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 392,
+    "book": "Job",
+    "reference": 23,
+    "planned_date": "2026-06-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 393,
+    "book": "Psalms",
+    "reference": 57,
+    "planned_date": "2026-06-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 394,
+    "book": "Job",
+    "reference": 24,
+    "planned_date": "2026-06-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 395,
+    "book": "Job",
+    "reference": 25,
+    "planned_date": "2026-06-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 396,
+    "book": "Job",
+    "reference": 26,
+    "planned_date": "2026-07-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 397,
+    "book": "Job",
+    "reference": 27,
+    "planned_date": "2026-07-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 398,
+    "book": "Job",
+    "reference": 28,
+    "planned_date": "2026-07-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 399,
+    "book": "Job",
+    "reference": 29,
+    "planned_date": "2026-07-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 400,
+    "book": "Job",
+    "reference": 30,
+    "planned_date": "2026-07-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 401,
+    "book": "Job",
+    "reference": 31,
+    "planned_date": "2026-07-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 402,
+    "book": "Job",
+    "reference": 32,
+    "planned_date": "2026-07-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 403,
+    "book": "Job",
+    "reference": 33,
+    "planned_date": "2026-07-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 404,
+    "book": "Psalms",
+    "reference": 58,
+    "planned_date": "2026-07-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 405,
+    "book": "Job",
+    "reference": 34,
+    "planned_date": "2026-07-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 406,
+    "book": "Job",
+    "reference": 35,
+    "planned_date": "2026-07-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 407,
+    "book": "Job",
+    "reference": 36,
+    "planned_date": "2026-07-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 408,
+    "book": "Job",
+    "reference": 37,
+    "planned_date": "2026-07-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 409,
+    "book": "Job",
+    "reference": 38,
+    "planned_date": "2026-07-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 410,
+    "book": "Job",
+    "reference": 39,
+    "planned_date": "2026-07-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 411,
+    "book": "Psalms",
+    "reference": 59,
+    "planned_date": "2026-07-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 412,
+    "book": "Job",
+    "reference": 40,
+    "planned_date": "2026-07-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 413,
+    "book": "Job",
+    "reference": 41,
+    "planned_date": "2026-07-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 414,
+    "book": "Job",
+    "reference": 42,
+    "planned_date": "2026-07-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 415,
+    "book": "Isaiah",
+    "reference": 1,
+    "planned_date": "2026-07-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 416,
+    "book": "Isaiah",
+    "reference": 2,
+    "planned_date": "2026-07-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 417,
+    "book": "Isaiah",
+    "reference": 3,
+    "planned_date": "2026-07-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 418,
+    "book": "Psalms",
+    "reference": 60,
+    "planned_date": "2026-07-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 419,
+    "book": "Isaiah",
+    "reference": 4,
+    "planned_date": "2026-07-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 420,
+    "book": "Isaiah",
+    "reference": 5,
+    "planned_date": "2026-07-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 421,
+    "book": "Isaiah",
+    "reference": 6,
+    "planned_date": "2026-07-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 422,
+    "book": "Isaiah",
+    "reference": 7,
+    "planned_date": "2026-07-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 423,
+    "book": "Isaiah",
+    "reference": 8,
+    "planned_date": "2026-07-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 424,
+    "book": "Isaiah",
+    "reference": 9,
+    "planned_date": "2026-08-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 425,
+    "book": "Psalms",
+    "reference": 61,
+    "planned_date": "2026-08-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 426,
+    "book": "Isaiah",
+    "reference": 10,
+    "planned_date": "2026-08-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 427,
+    "book": "Isaiah",
+    "reference": 11,
+    "planned_date": "2026-08-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 428,
+    "book": "Isaiah",
+    "reference": 12,
+    "planned_date": "2026-08-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 429,
+    "book": "Isaiah",
+    "reference": 13,
+    "planned_date": "2026-08-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 430,
+    "book": "Isaiah",
+    "reference": 14,
+    "planned_date": "2026-08-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 431,
+    "book": "Isaiah",
+    "reference": 15,
+    "planned_date": "2026-08-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 432,
+    "book": "Isaiah",
+    "reference": 16,
+    "planned_date": "2026-08-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 433,
+    "book": "Isaiah",
+    "reference": 17,
+    "planned_date": "2026-08-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 434,
+    "book": "Isaiah",
+    "reference": 18,
+    "planned_date": "2026-08-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 435,
+    "book": "Isaiah",
+    "reference": 19,
+    "planned_date": "2026-08-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 436,
+    "book": "Isaiah",
+    "reference": 20,
+    "planned_date": "2026-08-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 437,
+    "book": "Isaiah",
+    "reference": 21,
+    "planned_date": "2026-08-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 438,
+    "book": "Isaiah",
+    "reference": 22,
+    "planned_date": "2026-08-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 439,
+    "book": "Psalms",
+    "reference": 63,
+    "planned_date": "2026-08-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 440,
+    "book": "Isaiah",
+    "reference": 23,
+    "planned_date": "2026-08-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 441,
+    "book": "Isaiah",
+    "reference": 24,
+    "planned_date": "2026-08-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 442,
+    "book": "Isaiah",
+    "reference": 25,
+    "planned_date": "2026-08-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 443,
+    "book": "Isaiah",
+    "reference": 26,
+    "planned_date": "2026-08-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 444,
+    "book": "Isaiah",
+    "reference": 27,
+    "planned_date": "2026-08-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 445,
+    "book": "Psalms",
+    "reference": 64,
+    "planned_date": "2026-08-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 446,
+    "book": "Isaiah",
+    "reference": 28,
+    "planned_date": "2026-08-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 447,
+    "book": "Isaiah",
+    "reference": 29,
+    "planned_date": "2026-08-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 448,
+    "book": "Isaiah",
+    "reference": 30,
+    "planned_date": "2026-08-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 449,
+    "book": "Isaiah",
+    "reference": 31,
+    "planned_date": "2026-08-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 450,
+    "book": "Isaiah",
+    "reference": 32,
+    "planned_date": "2026-08-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 451,
+    "book": "Isaiah",
+    "reference": 33,
+    "planned_date": "2026-08-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 452,
+    "book": "Psalms",
+    "reference": 65,
+    "planned_date": "2026-08-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 453,
+    "book": "Isaiah",
+    "reference": 34,
+    "planned_date": "2026-08-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 454,
+    "book": "Isaiah",
+    "reference": 35,
+    "planned_date": "2026-09-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 455,
+    "book": "Isaiah",
+    "reference": 36,
+    "planned_date": "2026-09-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 456,
+    "book": "Isaiah",
+    "reference": 37,
+    "planned_date": "2026-09-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 457,
+    "book": "Isaiah",
+    "reference": 38,
+    "planned_date": "2026-09-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 458,
+    "book": "Isaiah",
+    "reference": 39,
+    "planned_date": "2026-09-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 459,
+    "book": "Isaiah",
+    "reference": 40,
+    "planned_date": "2026-09-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 460,
+    "book": "Isaiah",
+    "reference": 41,
+    "planned_date": "2026-09-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 461,
+    "book": "Isaiah",
+    "reference": 42,
+    "planned_date": "2026-09-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 462,
+    "book": "Isaiah",
+    "reference": 43,
+    "planned_date": "2026-09-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 463,
+    "book": "Isaiah",
+    "reference": 44,
+    "planned_date": "2026-09-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 464,
+    "book": "Isaiah",
+    "reference": 45,
+    "planned_date": "2026-09-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 465,
+    "book": "Psalms",
+    "reference": 66,
+    "planned_date": "2026-09-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 466,
+    "book": "Isaiah",
+    "reference": 46,
+    "planned_date": "2026-09-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 467,
+    "book": "Isaiah",
+    "reference": 47,
+    "planned_date": "2026-09-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 468,
+    "book": "Isaiah",
+    "reference": 48,
+    "planned_date": "2026-09-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 469,
+    "book": "Isaiah",
+    "reference": 49,
+    "planned_date": "2026-09-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 470,
+    "book": "Isaiah",
+    "reference": 50,
+    "planned_date": "2026-09-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 471,
+    "book": "Psalms",
+    "reference": 67,
+    "planned_date": "2026-09-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 472,
+    "book": "Isaiah",
+    "reference": 51,
+    "planned_date": "2026-09-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 473,
+    "book": "Isaiah",
+    "reference": 52,
+    "planned_date": "2026-09-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 474,
+    "book": "Isaiah",
+    "reference": 53,
+    "planned_date": "2026-09-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 475,
+    "book": "Isaiah",
+    "reference": 54,
+    "planned_date": "2026-09-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 476,
+    "book": "Isaiah",
+    "reference": 55,
+    "planned_date": "2026-09-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 477,
+    "book": "Isaiah",
+    "reference": 56,
+    "planned_date": "2026-09-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 478,
+    "book": "Isaiah",
+    "reference": 57,
+    "planned_date": "2026-10-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 479,
+    "book": "Isaiah",
+    "reference": 58,
+    "planned_date": "2026-10-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 480,
+    "book": "Psalms",
+    "reference": 68,
+    "planned_date": "2026-10-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 481,
+    "book": "Isaiah",
+    "reference": 59,
+    "planned_date": "2026-10-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 482,
+    "book": "Isaiah",
+    "reference": 60,
+    "planned_date": "2026-10-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 483,
+    "book": "Isaiah",
+    "reference": 61,
+    "planned_date": "2026-10-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 484,
+    "book": "Isaiah",
+    "reference": 62,
+    "planned_date": "2026-10-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 485,
+    "book": "Isaiah",
+    "reference": 63,
+    "planned_date": "2026-10-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 486,
+    "book": "Isaiah",
+    "reference": 64,
+    "planned_date": "2026-10-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 487,
+    "book": "Isaiah",
+    "reference": 65,
+    "planned_date": "2026-10-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 488,
+    "book": "Isaiah",
+    "reference": 66,
+    "planned_date": "2026-10-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 489,
+    "book": "Romans",
+    "reference": 1,
+    "planned_date": "2026-10-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 490,
+    "book": "Romans",
+    "reference": 2,
+    "planned_date": "2026-10-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 491,
+    "book": "Romans",
+    "reference": 3,
+    "planned_date": "2026-10-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 492,
+    "book": "Psalms",
+    "reference": 69,
+    "planned_date": "2026-10-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 493,
+    "book": "Romans",
+    "reference": 4,
+    "planned_date": "2026-10-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 494,
+    "book": "Romans",
+    "reference": 5,
+    "planned_date": "2026-10-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 495,
+    "book": "Romans",
+    "reference": 6,
+    "planned_date": "2026-10-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 496,
+    "book": "Romans",
+    "reference": 7,
+    "planned_date": "2026-10-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 497,
+    "book": "Romans",
+    "reference": 8,
+    "planned_date": "2026-10-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 498,
+    "book": "Romans",
+    "reference": 9,
+    "planned_date": "2026-11-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 499,
+    "book": "Romans",
+    "reference": 10,
+    "planned_date": "2026-11-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 500,
+    "book": "Romans",
+    "reference": 11,
+    "planned_date": "2026-11-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 501,
+    "book": "Romans",
+    "reference": 12,
+    "planned_date": "2026-11-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 502,
+    "book": "Romans",
+    "reference": 13,
+    "planned_date": "2026-11-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 503,
+    "book": "Romans",
+    "reference": 14,
+    "planned_date": "2026-11-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 504,
+    "book": "Psalms",
+    "reference": 70,
+    "planned_date": "2026-11-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 505,
+    "book": "Romans",
+    "reference": 15,
+    "planned_date": "2026-11-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 506,
+    "book": "Romans",
+    "reference": 16,
+    "planned_date": "2026-11-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 507,
+    "book": "1 Corinthians",
+    "reference": 1,
+    "planned_date": "2026-11-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 508,
+    "book": "1 Corinthians",
+    "reference": 2,
+    "planned_date": "2026-11-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 509,
+    "book": "1 Corinthians",
+    "reference": 3,
+    "planned_date": "2026-11-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 510,
+    "book": "1 Corinthians",
+    "reference": 4,
+    "planned_date": "2026-11-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 511,
+    "book": "1 Corinthians",
+    "reference": 5,
+    "planned_date": "2026-11-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 512,
+    "book": "Psalms",
+    "reference": 71,
+    "planned_date": "2026-11-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 513,
+    "book": "1 Corinthians",
+    "reference": 6,
+    "planned_date": "2026-11-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 514,
+    "book": "1 Corinthians",
+    "reference": 7,
+    "planned_date": "2026-11-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 515,
+    "book": "1 Corinthians",
+    "reference": 8,
+    "planned_date": "2026-11-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 516,
+    "book": "1 Corinthians",
+    "reference": 9,
+    "planned_date": "2026-11-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 517,
+    "book": "1 Corinthians",
+    "reference": 10,
+    "planned_date": "2026-11-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 518,
+    "book": "1 Corinthians",
+    "reference": 11,
+    "planned_date": "2026-11-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 519,
+    "book": "1 Corinthians",
+    "reference": 12,
+    "planned_date": "2026-11-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 520,
+    "book": "1 Corinthians",
+    "reference": 13,
+    "planned_date": "2026-11-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 521,
+    "book": "1 Corinthians",
+    "reference": 14,
+    "planned_date": "2026-11-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 522,
+    "book": "1 Corinthians",
+    "reference": 15,
+    "planned_date": "2026-11-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 523,
+    "book": "Psalms",
+    "reference": 72,
+    "planned_date": "2026-11-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 524,
+    "book": "1 Corinthians",
+    "reference": 16,
+    "planned_date": "2026-11-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 525,
+    "book": "2 Corinthians",
+    "reference": 1,
+    "planned_date": "2026-12-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 526,
+    "book": "2 Corinthians",
+    "reference": 2,
+    "planned_date": "2026-12-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 527,
+    "book": "2 Corinthians",
+    "reference": 3,
+    "planned_date": "2026-12-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 528,
+    "book": "2 Corinthians",
+    "reference": 4,
+    "planned_date": "2026-12-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 529,
+    "book": "2 Corinthians",
+    "reference": 5,
+    "planned_date": "2026-12-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 530,
+    "book": "2 Corinthians",
+    "reference": 6,
+    "planned_date": "2026-12-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 531,
+    "book": "2 Corinthians",
+    "reference": 7,
+    "planned_date": "2026-12-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 532,
+    "book": "2 Corinthians",
+    "reference": 8,
+    "planned_date": "2026-12-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 533,
+    "book": "2 Corinthians",
+    "reference": 9,
+    "planned_date": "2026-12-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 534,
+    "book": "2 Corinthians",
+    "reference": 10,
+    "planned_date": "2026-12-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 535,
+    "book": "2 Corinthians",
+    "reference": 11,
+    "planned_date": "2026-12-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 536,
+    "book": "2 Corinthians",
+    "reference": 12,
+    "planned_date": "2026-12-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 537,
+    "book": "Psalms",
+    "reference": 73,
+    "planned_date": "2026-12-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 538,
+    "book": "2 Corinthians",
+    "reference": 13,
+    "planned_date": "2026-12-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 539,
+    "book": "2 Thessalonians",
+    "reference": 1,
+    "planned_date": "2026-12-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 540,
+    "book": "2 Thessalonians",
+    "reference": 2,
+    "planned_date": "2026-12-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 541,
+    "book": "2 Thessalonians",
+    "reference": 3,
+    "planned_date": "2026-12-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 542,
+    "book": "1 Timothy",
+    "reference": 1,
+    "planned_date": "2026-12-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 543,
+    "book": "1 Timothy",
+    "reference": 2,
+    "planned_date": "2026-12-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 544,
+    "book": "1 Timothy",
+    "reference": 3,
+    "planned_date": "2026-12-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 545,
+    "book": "1 Timothy",
+    "reference": 4,
+    "planned_date": "2026-12-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 546,
+    "book": "1 Timothy",
+    "reference": 5,
+    "planned_date": "2026-12-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 547,
+    "book": "1 Timothy",
+    "reference": 6,
+    "planned_date": "2026-12-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 548,
+    "book": "2 Timothy",
+    "reference": 1,
+    "planned_date": "2026-12-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 549,
+    "book": "2 Timothy",
+    "reference": 2,
+    "planned_date": "2026-12-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 550,
+    "book": "Psalms",
+    "reference": 74,
+    "planned_date": "2026-12-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 551,
+    "book": "2 Timothy",
+    "reference": 3,
+    "planned_date": "2026-12-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 552,
+    "book": "2 Timothy",
+    "reference": 4,
+    "planned_date": "2026-12-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 553,
+    "book": "Titus",
+    "reference": 1,
+    "planned_date": "2026-12-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 554,
+    "book": "Titus",
+    "reference": 2,
+    "planned_date": "2026-12-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 555,
+    "book": "Titus",
+    "reference": 3,
+    "planned_date": "2026-12-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 556,
+    "book": "Philemon",
+    "reference": "1:1-25",
+    "planned_date": "2026-12-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 557,
+    "book": "1 Samuel",
+    "reference": 1,
+    "planned_date": "2027-01-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 558,
+    "book": "Psalms",
+    "reference": 75,
+    "planned_date": "2027-01-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 559,
+    "book": "1 Samuel",
+    "reference": 2,
+    "planned_date": "2027-01-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 560,
+    "book": "1 Samuel",
+    "reference": 3,
+    "planned_date": "2027-01-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 561,
+    "book": "1 Samuel",
+    "reference": 4,
+    "planned_date": "2027-01-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 562,
+    "book": "1 Samuel",
+    "reference": 5,
+    "planned_date": "2027-01-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 563,
+    "book": "1 Samuel",
+    "reference": 6,
+    "planned_date": "2027-01-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 564,
+    "book": "1 Samuel",
+    "reference": 7,
+    "planned_date": "2027-01-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 565,
+    "book": "Psalms",
+    "reference": 76,
+    "planned_date": "2027-01-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 566,
+    "book": "1 Samuel",
+    "reference": 8,
+    "planned_date": "2027-01-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 567,
+    "book": "1 Samuel",
+    "reference": 9,
+    "planned_date": "2027-01-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 568,
+    "book": "1 Samuel",
+    "reference": 10,
+    "planned_date": "2027-01-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 569,
+    "book": "1 Samuel",
+    "reference": 11,
+    "planned_date": "2027-01-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 570,
+    "book": "1 Samuel",
+    "reference": 12,
+    "planned_date": "2027-01-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 571,
+    "book": "Psalms",
+    "reference": 77,
+    "planned_date": "2027-01-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 572,
+    "book": "1 Samuel",
+    "reference": 13,
+    "planned_date": "2027-01-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 573,
+    "book": "1 Samuel",
+    "reference": 14,
+    "planned_date": "2027-01-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 574,
+    "book": "1 Samuel",
+    "reference": 15,
+    "planned_date": "2027-01-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 575,
+    "book": "Psalms",
+    "reference": 78,
+    "planned_date": "2027-01-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 576,
+    "book": "1 Samuel",
+    "reference": 16,
+    "planned_date": "2027-01-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 577,
+    "book": "1 Samuel",
+    "reference": 17,
+    "planned_date": "2027-01-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 578,
+    "book": "1 Samuel",
+    "reference": 18,
+    "planned_date": "2027-01-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 579,
+    "book": "1 Samuel",
+    "reference": 19,
+    "planned_date": "2027-02-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 580,
+    "book": "1 Samuel",
+    "reference": 20,
+    "planned_date": "2027-02-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 581,
+    "book": "1 Samuel",
+    "reference": 21,
+    "planned_date": "2027-02-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 582,
+    "book": "1 Samuel",
+    "reference": 22,
+    "planned_date": "2027-02-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 583,
+    "book": "1 Samuel",
+    "reference": 23,
+    "planned_date": "2027-02-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 584,
+    "book": "1 Samuel",
+    "reference": 24,
+    "planned_date": "2027-02-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 585,
+    "book": "1 Samuel",
+    "reference": 25,
+    "planned_date": "2027-02-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 586,
+    "book": "1 Samuel",
+    "reference": 26,
+    "planned_date": "2027-02-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 587,
+    "book": "1 Samuel",
+    "reference": 27,
+    "planned_date": "2027-02-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 588,
+    "book": "Psalms",
+    "reference": 79,
+    "planned_date": "2027-02-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 589,
+    "book": "1 Samuel",
+    "reference": 28,
+    "planned_date": "2027-02-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 590,
+    "book": "1 Samuel",
+    "reference": 29,
+    "planned_date": "2027-02-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 591,
+    "book": "1 Samuel",
+    "reference": 30,
+    "planned_date": "2027-02-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 592,
+    "book": "1 Samuel",
+    "reference": 31,
+    "planned_date": "2027-02-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 593,
+    "book": "Luke",
+    "reference": 1,
+    "planned_date": "2027-02-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 594,
+    "book": "Luke",
+    "reference": 2,
+    "planned_date": "2027-02-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 595,
+    "book": "Luke",
+    "reference": 3,
+    "planned_date": "2027-02-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 596,
+    "book": "Luke",
+    "reference": 4,
+    "planned_date": "2027-02-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 597,
+    "book": "Luke",
+    "reference": 5,
+    "planned_date": "2027-02-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 598,
+    "book": "Luke",
+    "reference": 6,
+    "planned_date": "2027-02-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 599,
+    "book": "Luke",
+    "reference": 7,
+    "planned_date": "2027-02-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 600,
+    "book": "Luke",
+    "reference": 8,
+    "planned_date": "2027-02-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 601,
+    "book": "Luke",
+    "reference": 9,
+    "planned_date": "2027-03-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 602,
+    "book": "Luke",
+    "reference": 10,
+    "planned_date": "2027-03-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 603,
+    "book": "Luke",
+    "reference": 11,
+    "planned_date": "2027-03-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 604,
+    "book": "Luke",
+    "reference": 12,
+    "planned_date": "2027-03-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 605,
+    "book": "Luke",
+    "reference": 13,
+    "planned_date": "2027-03-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 606,
+    "book": "Luke",
+    "reference": 14,
+    "planned_date": "2027-03-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 607,
+    "book": "Luke",
+    "reference": 15,
+    "planned_date": "2027-03-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 608,
+    "book": "Psalms",
+    "reference": 80,
+    "planned_date": "2027-03-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 609,
+    "book": "Luke",
+    "reference": 16,
+    "planned_date": "2027-03-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 610,
+    "book": "Luke",
+    "reference": 17,
+    "planned_date": "2027-03-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 611,
+    "book": "Luke",
+    "reference": 18,
+    "planned_date": "2027-03-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 612,
+    "book": "Luke",
+    "reference": 19,
+    "planned_date": "2027-03-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 613,
+    "book": "Luke",
+    "reference": 20,
+    "planned_date": "2027-03-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 614,
+    "book": "Luke",
+    "reference": 21,
+    "planned_date": "2027-03-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 615,
+    "book": "Luke",
+    "reference": 22,
+    "planned_date": "2027-03-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 616,
+    "book": "Luke",
+    "reference": 23,
+    "planned_date": "2027-03-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 617,
+    "book": "Luke",
+    "reference": 24,
+    "planned_date": "2027-03-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 618,
+    "book": "2 Samuel",
+    "reference": 1,
+    "planned_date": "2027-03-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 619,
+    "book": "2 Samuel",
+    "reference": 2,
+    "planned_date": "2027-03-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 620,
+    "book": "2 Samuel",
+    "reference": 3,
+    "planned_date": "2027-04-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 621,
+    "book": "Psalms",
+    "reference": 81,
+    "planned_date": "2027-04-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 622,
+    "book": "2 Samuel",
+    "reference": 4,
+    "planned_date": "2027-04-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 623,
+    "book": "2 Samuel",
+    "reference": 5,
+    "planned_date": "2027-04-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 624,
+    "book": "2 Samuel",
+    "reference": 6,
+    "planned_date": "2027-04-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 625,
+    "book": "Psalms",
+    "reference": 82,
+    "planned_date": "2027-04-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 626,
+    "book": "2 Samuel",
+    "reference": 7,
+    "planned_date": "2027-04-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 627,
+    "book": "Psalms",
+    "reference": 83,
+    "planned_date": "2027-04-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 628,
+    "book": "2 Samuel",
+    "reference": 8,
+    "planned_date": "2027-04-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 629,
+    "book": "2 Samuel",
+    "reference": 9,
+    "planned_date": "2027-04-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 630,
+    "book": "2 Samuel",
+    "reference": 10,
+    "planned_date": "2027-04-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 631,
+    "book": "Psalms",
+    "reference": 84,
+    "planned_date": "2027-04-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 632,
+    "book": "2 Samuel",
+    "reference": 11,
+    "planned_date": "2027-04-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 633,
+    "book": "2 Samuel",
+    "reference": 12,
+    "planned_date": "2027-04-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 634,
+    "book": "2 Samuel",
+    "reference": 13,
+    "planned_date": "2027-04-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 635,
+    "book": "2 Samuel",
+    "reference": 14,
+    "planned_date": "2027-05-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 636,
+    "book": "Psalms",
+    "reference": 85,
+    "planned_date": "2027-05-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 637,
+    "book": "2 Samuel",
+    "reference": 15,
+    "planned_date": "2027-05-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 638,
+    "book": "2 Samuel",
+    "reference": 16,
+    "planned_date": "2027-05-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 639,
+    "book": "2 Samuel",
+    "reference": 17,
+    "planned_date": "2027-05-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 640,
+    "book": "Psalms",
+    "reference": 86,
+    "planned_date": "2027-05-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 641,
+    "book": "2 Samuel",
+    "reference": 18,
+    "planned_date": "2027-05-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 642,
+    "book": "2 Samuel",
+    "reference": 19,
+    "planned_date": "2027-05-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 643,
+    "book": "2 Samuel",
+    "reference": 20,
+    "planned_date": "2027-05-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 644,
+    "book": "2 Samuel",
+    "reference": 21,
+    "planned_date": "2027-05-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 645,
+    "book": "2 Samuel",
+    "reference": 22,
+    "planned_date": "2027-05-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 646,
+    "book": "2 Samuel",
+    "reference": 23,
+    "planned_date": "2027-05-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 647,
+    "book": "2 Samuel",
+    "reference": 24,
+    "planned_date": "2027-05-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 648,
+    "book": "Psalms",
+    "reference": 87,
+    "planned_date": "2027-05-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 649,
+    "book": "1 Kings",
+    "reference": 1,
+    "planned_date": "2027-05-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 650,
+    "book": "1 Kings",
+    "reference": 2,
+    "planned_date": "2027-05-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 651,
+    "book": "1 Kings",
+    "reference": 3,
+    "planned_date": "2027-05-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 652,
+    "book": "Psalms",
+    "reference": 88,
+    "planned_date": "2027-05-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 653,
+    "book": "1 Kings",
+    "reference": 4,
+    "planned_date": "2027-05-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 654,
+    "book": "1 Kings",
+    "reference": 5,
+    "planned_date": "2027-06-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 655,
+    "book": "1 Kings",
+    "reference": 6,
+    "planned_date": "2027-06-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 656,
+    "book": "1 Kings",
+    "reference": 7,
+    "planned_date": "2027-06-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 657,
+    "book": "1 Kings",
+    "reference": 8,
+    "planned_date": "2027-06-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 658,
+    "book": "1 Kings",
+    "reference": 9,
+    "planned_date": "2027-06-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 659,
+    "book": "1 Kings",
+    "reference": 10,
+    "planned_date": "2027-06-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 660,
+    "book": "1 Kings",
+    "reference": 11,
+    "planned_date": "2027-06-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 661,
+    "book": "Psalms",
+    "reference": 89,
+    "planned_date": "2027-06-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 662,
+    "book": "1 Kings",
+    "reference": 12,
+    "planned_date": "2027-06-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 663,
+    "book": "1 Kings",
+    "reference": 13,
+    "planned_date": "2027-06-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 664,
+    "book": "1 Kings",
+    "reference": 14,
+    "planned_date": "2027-06-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 665,
+    "book": "1 Kings",
+    "reference": 15,
+    "planned_date": "2027-06-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 666,
+    "book": "1 Kings",
+    "reference": 16,
+    "planned_date": "2027-06-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 667,
+    "book": "1 Kings",
+    "reference": 17,
+    "planned_date": "2027-06-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 668,
+    "book": "1 Kings",
+    "reference": 18,
+    "planned_date": "2027-06-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 669,
+    "book": "1 Kings",
+    "reference": 19,
+    "planned_date": "2027-06-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 670,
+    "book": "1 Kings",
+    "reference": 20,
+    "planned_date": "2027-06-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 671,
+    "book": "1 Kings",
+    "reference": 21,
+    "planned_date": "2027-07-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 672,
+    "book": "1 Kings",
+    "reference": 22,
+    "planned_date": "2027-07-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 673,
+    "book": "Psalms",
+    "reference": 90,
+    "planned_date": "2027-07-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 674,
+    "book": "2 Kings",
+    "reference": 1,
+    "planned_date": "2027-07-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 675,
+    "book": "2 Kings",
+    "reference": 2,
+    "planned_date": "2027-07-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 676,
+    "book": "2 Kings",
+    "reference": 3,
+    "planned_date": "2027-07-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 677,
+    "book": "2 Kings",
+    "reference": 4,
+    "planned_date": "2027-07-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 678,
+    "book": "2 Kings",
+    "reference": 5,
+    "planned_date": "2027-07-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 679,
+    "book": "2 Kings",
+    "reference": 6,
+    "planned_date": "2027-07-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 680,
+    "book": "2 Kings",
+    "reference": 7,
+    "planned_date": "2027-07-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 681,
+    "book": "2 Kings",
+    "reference": 8,
+    "planned_date": "2027-07-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 682,
+    "book": "2 Kings",
+    "reference": 9,
+    "planned_date": "2027-07-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 683,
+    "book": "2 Kings",
+    "reference": 10,
+    "planned_date": "2027-07-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 684,
+    "book": "2 Kings",
+    "reference": 11,
+    "planned_date": "2027-07-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 685,
+    "book": "Psalms",
+    "reference": 91,
+    "planned_date": "2027-07-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 686,
+    "book": "2 Kings",
+    "reference": 12,
+    "planned_date": "2027-07-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 687,
+    "book": "2 Kings",
+    "reference": 13,
+    "planned_date": "2027-07-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 688,
+    "book": "2 Kings",
+    "reference": 14,
+    "planned_date": "2027-07-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 689,
+    "book": "2 Kings",
+    "reference": 15,
+    "planned_date": "2027-07-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 690,
+    "book": "2 Kings",
+    "reference": 16,
+    "planned_date": "2027-07-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 691,
+    "book": "2 Kings",
+    "reference": 17,
+    "planned_date": "2027-07-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 692,
+    "book": "Psalms",
+    "reference": 92,
+    "planned_date": "2027-07-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 693,
+    "book": "2 Kings",
+    "reference": 18,
+    "planned_date": "2027-07-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 694,
+    "book": "2 Kings",
+    "reference": 19,
+    "planned_date": "2027-07-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 695,
+    "book": "2 Kings",
+    "reference": 20,
+    "planned_date": "2027-07-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 696,
+    "book": "2 Kings",
+    "reference": 21,
+    "planned_date": "2027-07-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 697,
+    "book": "2 Kings",
+    "reference": 22,
+    "planned_date": "2027-07-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 698,
+    "book": "2 Kings",
+    "reference": 23,
+    "planned_date": "2027-07-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 699,
+    "book": "Psalms",
+    "reference": 93,
+    "planned_date": "2027-08-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 700,
+    "book": "2 Kings",
+    "reference": 24,
+    "planned_date": "2027-08-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 701,
+    "book": "2 Kings",
+    "reference": 25,
+    "planned_date": "2027-08-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 702,
+    "book": "Proverbs",
+    "reference": 1,
+    "planned_date": "2027-08-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 703,
+    "book": "Proverbs",
+    "reference": 2,
+    "planned_date": "2027-08-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 704,
+    "book": "Proverbs",
+    "reference": 3,
+    "planned_date": "2027-08-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 705,
+    "book": "Proverbs",
+    "reference": 4,
+    "planned_date": "2027-08-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 706,
+    "book": "Proverbs",
+    "reference": 5,
+    "planned_date": "2027-08-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 707,
+    "book": "Proverbs",
+    "reference": 6,
+    "planned_date": "2027-08-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 708,
+    "book": "Psalms",
+    "reference": 94,
+    "planned_date": "2027-08-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 709,
+    "book": "Proverbs",
+    "reference": 7,
+    "planned_date": "2027-08-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 710,
+    "book": "Proverbs",
+    "reference": 8,
+    "planned_date": "2027-08-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 711,
+    "book": "Proverbs",
+    "reference": 9,
+    "planned_date": "2027-08-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 712,
+    "book": "Proverbs",
+    "reference": 10,
+    "planned_date": "2027-08-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 713,
+    "book": "Proverbs",
+    "reference": 11,
+    "planned_date": "2027-08-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 714,
+    "book": "Proverbs",
+    "reference": 12,
+    "planned_date": "2027-08-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 715,
+    "book": "Proverbs",
+    "reference": 13,
+    "planned_date": "2027-08-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 716,
+    "book": "Psalms",
+    "reference": 95,
+    "planned_date": "2027-08-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 717,
+    "book": "Proverbs",
+    "reference": 14,
+    "planned_date": "2027-08-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 718,
+    "book": "Proverbs",
+    "reference": 15,
+    "planned_date": "2027-08-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 719,
+    "book": "Proverbs",
+    "reference": 16,
+    "planned_date": "2027-08-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 720,
+    "book": "Proverbs",
+    "reference": 17,
+    "planned_date": "2027-08-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 721,
+    "book": "Proverbs",
+    "reference": 18,
+    "planned_date": "2027-08-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 722,
+    "book": "Proverbs",
+    "reference": 19,
+    "planned_date": "2027-08-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 723,
+    "book": "Proverbs",
+    "reference": 20,
+    "planned_date": "2027-08-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 724,
+    "book": "Psalms",
+    "reference": 96,
+    "planned_date": "2027-08-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 725,
+    "book": "Proverbs",
+    "reference": 21,
+    "planned_date": "2027-08-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 726,
+    "book": "Proverbs",
+    "reference": 22,
+    "planned_date": "2027-08-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 727,
+    "book": "Proverbs",
+    "reference": 23,
+    "planned_date": "2027-08-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 728,
+    "book": "Proverbs",
+    "reference": 24,
+    "planned_date": "2027-08-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 729,
+    "book": "Proverbs",
+    "reference": 25,
+    "planned_date": "2027-08-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 730,
+    "book": "Proverbs",
+    "reference": 26,
+    "planned_date": "2027-08-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 731,
+    "book": "Proverbs",
+    "reference": 27,
+    "planned_date": "2027-08-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 732,
+    "book": "Psalms",
+    "reference": 97,
+    "planned_date": "2027-08-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 733,
+    "book": "Proverbs",
+    "reference": 28,
+    "planned_date": "2027-08-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 734,
+    "book": "Proverbs",
+    "reference": 29,
+    "planned_date": "2027-08-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 735,
+    "book": "Proverbs",
+    "reference": 30,
+    "planned_date": "2027-08-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 736,
+    "book": "Proverbs",
+    "reference": 31,
+    "planned_date": "2027-09-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 737,
+    "book": "Ecclesiastes",
+    "reference": 1,
+    "planned_date": "2027-09-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 738,
+    "book": "Ecclesiastes",
+    "reference": 2,
+    "planned_date": "2027-09-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 739,
+    "book": "Ecclesiastes",
+    "reference": 3,
+    "planned_date": "2027-09-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 740,
+    "book": "Psalms",
+    "reference": 98,
+    "planned_date": "2027-09-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 741,
+    "book": "Ecclesiastes",
+    "reference": 4,
+    "planned_date": "2027-09-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 742,
+    "book": "Ecclesiastes",
+    "reference": 5,
+    "planned_date": "2027-09-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 743,
+    "book": "Ecclesiastes",
+    "reference": 6,
+    "planned_date": "2027-09-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 744,
+    "book": "Ecclesiastes",
+    "reference": 7,
+    "planned_date": "2027-09-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 745,
+    "book": "Ecclesiastes",
+    "reference": 8,
+    "planned_date": "2027-09-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 746,
+    "book": "Ecclesiastes",
+    "reference": 9,
+    "planned_date": "2027-09-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 747,
+    "book": "Ecclesiastes",
+    "reference": 10,
+    "planned_date": "2027-09-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 748,
+    "book": "Psalms",
+    "reference": 99,
+    "planned_date": "2027-09-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 749,
+    "book": "Ecclesiastes",
+    "reference": 11,
+    "planned_date": "2027-09-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 750,
+    "book": "Ecclesiastes",
+    "reference": 12,
+    "planned_date": "2027-09-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 751,
+    "book": "Song of Solomon",
+    "reference": 1,
+    "planned_date": "2027-09-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 752,
+    "book": "Song of Solomon",
+    "reference": 2,
+    "planned_date": "2027-09-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 753,
+    "book": "Song of Solomon",
+    "reference": 3,
+    "planned_date": "2027-09-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 754,
+    "book": "Song of Solomon",
+    "reference": 4,
+    "planned_date": "2027-09-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 755,
+    "book": "Song of Solomon",
+    "reference": 5,
+    "planned_date": "2027-09-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 756,
+    "book": "Song of Solomon",
+    "reference": 6,
+    "planned_date": "2027-09-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 757,
+    "book": "Song of Solomon",
+    "reference": 7,
+    "planned_date": "2027-09-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 758,
+    "book": "Song of Solomon",
+    "reference": 8,
+    "planned_date": "2027-09-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 759,
+    "book": "Hosea",
+    "reference": 1,
+    "planned_date": "2027-09-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 760,
+    "book": "Psalms",
+    "reference": 100,
+    "planned_date": "2027-09-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 761,
+    "book": "Hosea",
+    "reference": 2,
+    "planned_date": "2027-09-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 762,
+    "book": "Hosea",
+    "reference": 3,
+    "planned_date": "2027-09-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 763,
+    "book": "Hosea",
+    "reference": 4,
+    "planned_date": "2027-09-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 764,
+    "book": "Hosea",
+    "reference": 5,
+    "planned_date": "2027-09-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 765,
+    "book": "Hosea",
+    "reference": 6,
+    "planned_date": "2027-09-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 766,
+    "book": "Hosea",
+    "reference": 7,
+    "planned_date": "2027-09-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 767,
+    "book": "Hosea",
+    "reference": 8,
+    "planned_date": "2027-09-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 768,
+    "book": "Hosea",
+    "reference": 9,
+    "planned_date": "2027-09-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 769,
+    "book": "Psalms",
+    "reference": 101,
+    "planned_date": "2027-09-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 770,
+    "book": "Hosea",
+    "reference": 10,
+    "planned_date": "2027-09-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 771,
+    "book": "Hosea",
+    "reference": 11,
+    "planned_date": "2027-09-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 772,
+    "book": "Hosea",
+    "reference": 12,
+    "planned_date": "2027-09-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 773,
+    "book": "Hosea",
+    "reference": 13,
+    "planned_date": "2027-09-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 774,
+    "book": "Hosea",
+    "reference": 14,
+    "planned_date": "2027-09-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 775,
+    "book": "Joel",
+    "reference": 1,
+    "planned_date": "2027-09-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 776,
+    "book": "Joel",
+    "reference": 2,
+    "planned_date": "2027-10-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 777,
+    "book": "Joel",
+    "reference": 3,
+    "planned_date": "2027-10-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 778,
+    "book": "Psalms",
+    "reference": 102,
+    "planned_date": "2027-10-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 779,
+    "book": "Amos",
+    "reference": 1,
+    "planned_date": "2027-10-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 780,
+    "book": "Amos",
+    "reference": 2,
+    "planned_date": "2027-10-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 781,
+    "book": "Amos",
+    "reference": 3,
+    "planned_date": "2027-10-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 782,
+    "book": "Amos",
+    "reference": 4,
+    "planned_date": "2027-10-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 783,
+    "book": "Amos",
+    "reference": 5,
+    "planned_date": "2027-10-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 784,
+    "book": "Amos",
+    "reference": 6,
+    "planned_date": "2027-10-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 785,
+    "book": "Amos",
+    "reference": 7,
+    "planned_date": "2027-10-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 786,
+    "book": "Amos",
+    "reference": 8,
+    "planned_date": "2027-10-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 787,
+    "book": "Psalms",
+    "reference": 103,
+    "planned_date": "2027-10-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 788,
+    "book": "Amos",
+    "reference": 9,
+    "planned_date": "2027-10-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 789,
+    "book": "Obadiah",
+    "reference": "1:1-21",
+    "planned_date": "2027-10-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 790,
+    "book": "Jonah",
+    "reference": 1,
+    "planned_date": "2027-10-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 791,
+    "book": "Jonah",
+    "reference": 2,
+    "planned_date": "2027-10-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 792,
+    "book": "Jonah",
+    "reference": 3,
+    "planned_date": "2027-10-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 793,
+    "book": "Jonah",
+    "reference": 4,
+    "planned_date": "2027-10-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 794,
+    "book": "Micah",
+    "reference": 1,
+    "planned_date": "2027-10-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 795,
+    "book": "Micah",
+    "reference": 2,
+    "planned_date": "2027-10-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 796,
+    "book": "Micah",
+    "reference": 3,
+    "planned_date": "2027-10-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 797,
+    "book": "Micah",
+    "reference": 4,
+    "planned_date": "2027-10-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 798,
+    "book": "Micah",
+    "reference": 5,
+    "planned_date": "2027-10-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 799,
+    "book": "Micah",
+    "reference": 6,
+    "planned_date": "2027-10-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 800,
+    "book": "Micah",
+    "reference": 7,
+    "planned_date": "2027-10-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 801,
+    "book": "Nahum",
+    "reference": 1,
+    "planned_date": "2027-10-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 802,
+    "book": "Nahum",
+    "reference": 2,
+    "planned_date": "2027-10-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 803,
+    "book": "Nahum",
+    "reference": 3,
+    "planned_date": "2027-10-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 804,
+    "book": "Habakkuk",
+    "reference": 1,
+    "planned_date": "2027-10-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 805,
+    "book": "Habakkuk",
+    "reference": 2,
+    "planned_date": "2027-10-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 806,
+    "book": "Habakkuk",
+    "reference": 3,
+    "planned_date": "2027-10-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 807,
+    "book": "Psalms",
+    "reference": 104,
+    "planned_date": "2027-11-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 808,
+    "book": "Zephaniah",
+    "reference": 1,
+    "planned_date": "2027-11-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 809,
+    "book": "Zephaniah",
+    "reference": 2,
+    "planned_date": "2027-11-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 810,
+    "book": "Zephaniah",
+    "reference": 3,
+    "planned_date": "2027-11-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 811,
+    "book": "Haggai",
+    "reference": 1,
+    "planned_date": "2027-11-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 812,
+    "book": "Haggai",
+    "reference": 2,
+    "planned_date": "2027-11-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 813,
+    "book": "Zechariah",
+    "reference": 1,
+    "planned_date": "2027-11-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 814,
+    "book": "Psalms",
+    "reference": 105,
+    "planned_date": "2027-11-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 815,
+    "book": "Zechariah",
+    "reference": 2,
+    "planned_date": "2027-11-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 816,
+    "book": "Zechariah",
+    "reference": 3,
+    "planned_date": "2027-11-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 817,
+    "book": "Zechariah",
+    "reference": 4,
+    "planned_date": "2027-11-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 818,
+    "book": "Zechariah",
+    "reference": 5,
+    "planned_date": "2027-11-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 819,
+    "book": "Zechariah",
+    "reference": 6,
+    "planned_date": "2027-11-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 820,
+    "book": "Zechariah",
+    "reference": 7,
+    "planned_date": "2027-11-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 821,
+    "book": "Zechariah",
+    "reference": 8,
+    "planned_date": "2027-11-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 822,
+    "book": "Zechariah",
+    "reference": 9,
+    "planned_date": "2027-11-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 823,
+    "book": "Zechariah",
+    "reference": 10,
+    "planned_date": "2027-11-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 824,
+    "book": "Zechariah",
+    "reference": 11,
+    "planned_date": "2027-11-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 825,
+    "book": "Zechariah",
+    "reference": 12,
+    "planned_date": "2027-11-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 826,
+    "book": "Zechariah",
+    "reference": 13,
+    "planned_date": "2027-12-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 827,
+    "book": "Zechariah",
+    "reference": 14,
+    "planned_date": "2027-12-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 828,
+    "book": "Malachi",
+    "reference": 1,
+    "planned_date": "2027-12-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 829,
+    "book": "Psalms",
+    "reference": 106,
+    "planned_date": "2027-12-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 830,
+    "book": "Malachi",
+    "reference": 2,
+    "planned_date": "2027-12-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 831,
+    "book": "Malachi",
+    "reference": 3,
+    "planned_date": "2027-12-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 832,
+    "book": "Malachi",
+    "reference": 4,
+    "planned_date": "2027-12-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 833,
+    "book": "Galatians",
+    "reference": 1,
+    "planned_date": "2027-12-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 834,
+    "book": "Galatians",
+    "reference": 2,
+    "planned_date": "2027-12-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 835,
+    "book": "Psalms",
+    "reference": 107,
+    "planned_date": "2027-12-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 836,
+    "book": "Galatians",
+    "reference": 3,
+    "planned_date": "2027-12-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 837,
+    "book": "Galatians",
+    "reference": 4,
+    "planned_date": "2027-12-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 838,
+    "book": "Galatians",
+    "reference": 5,
+    "planned_date": "2027-12-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 839,
+    "book": "Galatians",
+    "reference": 6,
+    "planned_date": "2027-12-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 840,
+    "book": "Ephesians",
+    "reference": 1,
+    "planned_date": "2027-12-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 841,
+    "book": "Ephesians",
+    "reference": 2,
+    "planned_date": "2027-12-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 842,
+    "book": "Psalms",
+    "reference": 108,
+    "planned_date": "2027-12-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 843,
+    "book": "Ephesians",
+    "reference": 3,
+    "planned_date": "2027-12-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 844,
+    "book": "Ephesians",
+    "reference": 4,
+    "planned_date": "2027-12-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 845,
+    "book": "Ephesians",
+    "reference": 5,
+    "planned_date": "2027-12-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 846,
+    "book": "Ephesians",
+    "reference": 6,
+    "planned_date": "2027-12-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 847,
+    "book": "Philippians",
+    "reference": 1,
+    "planned_date": "2027-12-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 848,
+    "book": "Philippians",
+    "reference": 2,
+    "planned_date": "2027-12-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 849,
+    "book": "Psalms",
+    "reference": 109,
+    "planned_date": "2027-12-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 850,
+    "book": "Philippians",
+    "reference": 3,
+    "planned_date": "2027-12-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 851,
+    "book": "Philippians",
+    "reference": 4,
+    "planned_date": "2027-12-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 852,
+    "book": "Colossians",
+    "reference": 1,
+    "planned_date": "2027-12-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 853,
+    "book": "Colossians",
+    "reference": 2,
+    "planned_date": "2027-12-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 854,
+    "book": "Colossians",
+    "reference": 3,
+    "planned_date": "2027-12-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 855,
+    "book": "Colossians",
+    "reference": 4,
+    "planned_date": "2027-12-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 856,
+    "book": "1 Chronicles",
+    "reference": 1,
+    "planned_date": "2028-01-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 857,
+    "book": "1 Chronicles",
+    "reference": 2,
+    "planned_date": "2028-01-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 858,
+    "book": "Psalms",
+    "reference": 110,
+    "planned_date": "2028-01-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 859,
+    "book": "1 Chronicles",
+    "reference": 3,
+    "planned_date": "2028-01-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 860,
+    "book": "1 Chronicles",
+    "reference": 4,
+    "planned_date": "2028-01-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 861,
+    "book": "1 Chronicles",
+    "reference": 5,
+    "planned_date": "2028-01-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 862,
+    "book": "1 Chronicles",
+    "reference": 6,
+    "planned_date": "2028-01-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 863,
+    "book": "Psalms",
+    "reference": 111,
+    "planned_date": "2028-01-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 864,
+    "book": "1 Chronicles",
+    "reference": 7,
+    "planned_date": "2028-01-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 865,
+    "book": "1 Chronicles",
+    "reference": 8,
+    "planned_date": "2028-01-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 866,
+    "book": "1 Chronicles",
+    "reference": 9,
+    "planned_date": "2028-01-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 867,
+    "book": "1 Chronicles",
+    "reference": 10,
+    "planned_date": "2028-01-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 868,
+    "book": "1 Chronicles",
+    "reference": 11,
+    "planned_date": "2028-01-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 869,
+    "book": "Psalms",
+    "reference": 112,
+    "planned_date": "2028-01-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 870,
+    "book": "1 Chronicles",
+    "reference": 12,
+    "planned_date": "2028-01-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 871,
+    "book": "1 Chronicles",
+    "reference": 13,
+    "planned_date": "2028-01-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 872,
+    "book": "1 Chronicles",
+    "reference": 14,
+    "planned_date": "2028-01-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 873,
+    "book": "1 Chronicles",
+    "reference": 15,
+    "planned_date": "2028-01-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 874,
+    "book": "1 Chronicles",
+    "reference": 16,
+    "planned_date": "2028-01-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 875,
+    "book": "1 Chronicles",
+    "reference": 17,
+    "planned_date": "2028-01-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 876,
+    "book": "1 Chronicles",
+    "reference": 18,
+    "planned_date": "2028-01-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 877,
+    "book": "Psalms",
+    "reference": 113,
+    "planned_date": "2028-01-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 878,
+    "book": "1 Chronicles",
+    "reference": 19,
+    "planned_date": "2028-01-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 879,
+    "book": "1 Chronicles",
+    "reference": 20,
+    "planned_date": "2028-01-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 880,
+    "book": "1 Chronicles",
+    "reference": 21,
+    "planned_date": "2028-01-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 881,
+    "book": "1 Chronicles",
+    "reference": 22,
+    "planned_date": "2028-01-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 882,
+    "book": "1 Chronicles",
+    "reference": 23,
+    "planned_date": "2028-01-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 883,
+    "book": "1 Chronicles",
+    "reference": 24,
+    "planned_date": "2028-01-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 884,
+    "book": "1 Chronicles",
+    "reference": 25,
+    "planned_date": "2028-01-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 885,
+    "book": "Psalms",
+    "reference": 114,
+    "planned_date": "2028-01-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 886,
+    "book": "1 Chronicles",
+    "reference": 26,
+    "planned_date": "2028-01-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 887,
+    "book": "1 Chronicles",
+    "reference": 27,
+    "planned_date": "2028-02-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 888,
+    "book": "1 Chronicles",
+    "reference": 28,
+    "planned_date": "2028-02-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 889,
+    "book": "1 Chronicles",
+    "reference": 29,
+    "planned_date": "2028-02-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 890,
+    "book": "2 Chronicles",
+    "reference": 1,
+    "planned_date": "2028-02-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 891,
+    "book": "2 Chronicles",
+    "reference": 2,
+    "planned_date": "2026-02-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 892,
+    "book": "Psalms",
+    "reference": 115,
+    "planned_date": "2028-02-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 893,
+    "book": "2 Chronicles",
+    "reference": 3,
+    "planned_date": "2028-02-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 894,
+    "book": "2 Chronicles",
+    "reference": 4,
+    "planned_date": "2028-02-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 895,
+    "book": "2 Chronicles",
+    "reference": 5,
+    "planned_date": "2028-02-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 896,
+    "book": "2 Chronicles",
+    "reference": 6,
+    "planned_date": "2028-02-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 897,
+    "book": "2 Chronicles",
+    "reference": 7,
+    "planned_date": "2028-02-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 898,
+    "book": "Psalms",
+    "reference": 116,
+    "planned_date": "2028-02-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 899,
+    "book": "2 Chronicles",
+    "reference": 8,
+    "planned_date": "2028-02-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 900,
+    "book": "2 Chronicles",
+    "reference": 9,
+    "planned_date": "2028-02-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 901,
+    "book": "2 Chronicles",
+    "reference": 10,
+    "planned_date": "2028-02-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 902,
+    "book": "2 Chronicles",
+    "reference": 11,
+    "planned_date": "2028-02-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 903,
+    "book": "2 Chronicles",
+    "reference": 12,
+    "planned_date": "2028-02-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 904,
+    "book": "2 Chronicles",
+    "reference": 13,
+    "planned_date": "2028-02-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 905,
+    "book": "2 Chronicles",
+    "reference": 14,
+    "planned_date": "2028-02-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 906,
+    "book": "2 Chronicles",
+    "reference": 15,
+    "planned_date": "2028-02-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 907,
+    "book": "Psalms",
+    "reference": 117,
+    "planned_date": "2028-02-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 908,
+    "book": "2 Chronicles",
+    "reference": 16,
+    "planned_date": "2028-02-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 909,
+    "book": "2 Chronicles",
+    "reference": 17,
+    "planned_date": "2028-02-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 910,
+    "book": "2 Chronicles",
+    "reference": 18,
+    "planned_date": "2028-02-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 911,
+    "book": "2 Chronicles",
+    "reference": 19,
+    "planned_date": "2028-02-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 912,
+    "book": "2 Chronicles",
+    "reference": 20,
+    "planned_date": "2028-02-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 913,
+    "book": "2 Chronicles",
+    "reference": 21,
+    "planned_date": "2028-02-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 914,
+    "book": "Psalms",
+    "reference": 118,
+    "planned_date": "2028-02-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 915,
+    "book": "2 Chronicles",
+    "reference": 22,
+    "planned_date": "2028-02-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 916,
+    "book": "2 Chronicles",
+    "reference": 23,
+    "planned_date": "2028-03-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 917,
+    "book": "2 Chronicles",
+    "reference": 24,
+    "planned_date": "2028-03-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 918,
+    "book": "2 Chronicles",
+    "reference": 25,
+    "planned_date": "2028-03-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 919,
+    "book": "2 Chronicles",
+    "reference": 26,
+    "planned_date": "2028-03-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 920,
+    "book": "2 Chronicles",
+    "reference": 27,
+    "planned_date": "2028-03-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 921,
+    "book": "Psalms",
+    "reference": "119:1-16",
+    "planned_date": "2028-03-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 922,
+    "book": "2 Chronicles",
+    "reference": 28,
+    "planned_date": "2028-03-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 923,
+    "book": "2 Chronicles",
+    "reference": 29,
+    "planned_date": "2028-03-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 924,
+    "book": "2 Chronicles",
+    "reference": 30,
+    "planned_date": "2028-03-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 925,
+    "book": "2 Chronicles",
+    "reference": 31,
+    "planned_date": "2028-03-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 926,
+    "book": "Psalms",
+    "reference": "119:17-32",
+    "planned_date": "2028-03-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 927,
+    "book": "2 Chronicles",
+    "reference": 32,
+    "planned_date": "2028-03-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 928,
+    "book": "2 Chronicles",
+    "reference": 33,
+    "planned_date": "2028-03-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 929,
+    "book": "2 Chronicles",
+    "reference": 34,
+    "planned_date": "2028-03-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 930,
+    "book": "2 Chronicles",
+    "reference": 35,
+    "planned_date": "2028-03-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 931,
+    "book": "2 Chronicles",
+    "reference": 36,
+    "planned_date": "2028-03-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 932,
+    "book": "Psalms",
+    "reference": "119:33-48",
+    "planned_date": "2028-03-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 933,
+    "book": "John",
+    "reference": 1,
+    "planned_date": "2028-03-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 934,
+    "book": "John",
+    "reference": 2,
+    "planned_date": "2028-03-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 935,
+    "book": "John",
+    "reference": 3,
+    "planned_date": "2028-03-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 936,
+    "book": "John",
+    "reference": 4,
+    "planned_date": "2028-03-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 937,
+    "book": "Psalms",
+    "reference": "119:49-64",
+    "planned_date": "2028-03-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 938,
+    "book": "John",
+    "reference": 5,
+    "planned_date": "2028-03-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 939,
+    "book": "John",
+    "reference": 6,
+    "planned_date": "2028-03-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 940,
+    "book": "John",
+    "reference": 7,
+    "planned_date": "2028-03-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 941,
+    "book": "John",
+    "reference": 8,
+    "planned_date": "2028-03-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 942,
+    "book": "John",
+    "reference": 9,
+    "planned_date": "2028-04-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 943,
+    "book": "Psalms",
+    "reference": "119:65-80",
+    "planned_date": "2028-04-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 944,
+    "book": "John",
+    "reference": 10,
+    "planned_date": "2028-04-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 945,
+    "book": "John",
+    "reference": 11,
+    "planned_date": "2028-04-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 946,
+    "book": "John",
+    "reference": 12,
+    "planned_date": "2028-04-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 947,
+    "book": "John",
+    "reference": 13,
+    "planned_date": "2028-04-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 948,
+    "book": "John",
+    "reference": 14,
+    "planned_date": "2028-04-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 949,
+    "book": "John",
+    "reference": 15,
+    "planned_date": "2028-04-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 950,
+    "book": "Psalms",
+    "reference": "119:81-96",
+    "planned_date": "2028-04-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 951,
+    "book": "John",
+    "reference": 16,
+    "planned_date": "2028-04-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 952,
+    "book": "John",
+    "reference": 17,
+    "planned_date": "2028-04-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 953,
+    "book": "John",
+    "reference": 18,
+    "planned_date": "2028-04-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 954,
+    "book": "John",
+    "reference": 19,
+    "planned_date": "2028-04-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 955,
+    "book": "John",
+    "reference": 20,
+    "planned_date": "2028-04-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 956,
+    "book": "John",
+    "reference": 21,
+    "planned_date": "2028-04-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 957,
+    "book": "Ezra",
+    "reference": 1,
+    "planned_date": "2028-04-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 958,
+    "book": "Ezra",
+    "reference": 2,
+    "planned_date": "2028-04-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 959,
+    "book": "Ezra",
+    "reference": 3,
+    "planned_date": "2028-04-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 960,
+    "book": "Ezra",
+    "reference": 4,
+    "planned_date": "2028-04-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 961,
+    "book": "Ezra",
+    "reference": 5,
+    "planned_date": "2028-04-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 962,
+    "book": "Psalms",
+    "reference": "119:97-112",
+    "planned_date": "2028-04-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 963,
+    "book": "Ezra",
+    "reference": 6,
+    "planned_date": "2028-04-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 964,
+    "book": "Ezra",
+    "reference": 7,
+    "planned_date": "2028-04-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 965,
+    "book": "Ezra",
+    "reference": 8,
+    "planned_date": "2028-04-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 966,
+    "book": "Ezra",
+    "reference": 9,
+    "planned_date": "2028-04-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 967,
+    "book": "Ezra",
+    "reference": 10,
+    "planned_date": "2028-04-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 968,
+    "book": "Nehemiah",
+    "reference": 1,
+    "planned_date": "2028-04-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 969,
+    "book": "Psalms",
+    "reference": "119:113-128",
+    "planned_date": "2028-04-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 970,
+    "book": "Nehemiah",
+    "reference": 2,
+    "planned_date": "2028-05-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 971,
+    "book": "Nehemiah",
+    "reference": 3,
+    "planned_date": "2028-05-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 972,
+    "book": "Nehemiah",
+    "reference": 4,
+    "planned_date": "2028-05-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 973,
+    "book": "Nehemiah",
+    "reference": 5,
+    "planned_date": "2028-05-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 974,
+    "book": "Psalms",
+    "reference": "119:129-144",
+    "planned_date": "2028-05-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 975,
+    "book": "Nehemiah",
+    "reference": 6,
+    "planned_date": "2028-05-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 976,
+    "book": "Nehemiah",
+    "reference": 7,
+    "planned_date": "2028-05-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 977,
+    "book": "Nehemiah",
+    "reference": 8,
+    "planned_date": "2028-05-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 978,
+    "book": "Nehemiah",
+    "reference": 9,
+    "planned_date": "2028-05-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 979,
+    "book": "Nehemiah",
+    "reference": 10,
+    "planned_date": "2028-05-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 980,
+    "book": "Nehemiah",
+    "reference": 11,
+    "planned_date": "2028-05-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 981,
+    "book": "Psalms",
+    "reference": "119:145-160",
+    "planned_date": "2028-05-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 982,
+    "book": "Nehemiah",
+    "reference": 12,
+    "planned_date": "2028-05-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 983,
+    "book": "Nehemiah",
+    "reference": 13,
+    "planned_date": "2028-05-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 984,
+    "book": "Esther",
+    "reference": 1,
+    "planned_date": "2028-05-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 985,
+    "book": "Esther",
+    "reference": 2,
+    "planned_date": "2028-05-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 986,
+    "book": "Esther",
+    "reference": 3,
+    "planned_date": "2028-05-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 987,
+    "book": "Esther",
+    "reference": 4,
+    "planned_date": "2028-05-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 988,
+    "book": "Psalms",
+    "reference": "119:161-176",
+    "planned_date": "2028-05-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 989,
+    "book": "Esther",
+    "reference": 5,
+    "planned_date": "2028-05-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 990,
+    "book": "Esther",
+    "reference": 6,
+    "planned_date": "2028-05-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 991,
+    "book": "Esther",
+    "reference": 7,
+    "planned_date": "2028-05-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 992,
+    "book": "Esther",
+    "reference": 8,
+    "planned_date": "2028-05-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 993,
+    "book": "Esther",
+    "reference": 9,
+    "planned_date": "2028-05-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 994,
+    "book": "Esther",
+    "reference": 10,
+    "planned_date": "2028-05-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 995,
+    "book": "Psalms",
+    "reference": 120,
+    "planned_date": "2028-05-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 996,
+    "book": "Jeremiah",
+    "reference": 1,
+    "planned_date": "2028-05-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 997,
+    "book": "Jeremiah",
+    "reference": 2,
+    "planned_date": "2028-05-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 998,
+    "book": "Jeremiah",
+    "reference": 3,
+    "planned_date": "2028-06-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 999,
+    "book": "Jeremiah",
+    "reference": 4,
+    "planned_date": "2028-06-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1000,
+    "book": "Jeremiah",
+    "reference": 5,
+    "planned_date": "2028-06-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1001,
+    "book": "Psalms",
+    "reference": 121,
+    "planned_date": "2028-06-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1002,
+    "book": "Jeremiah",
+    "reference": 6,
+    "planned_date": "2028-06-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1003,
+    "book": "Jeremiah",
+    "reference": 7,
+    "planned_date": "2028-06-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1004,
+    "book": "Jeremiah",
+    "reference": 8,
+    "planned_date": "2028-06-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1005,
+    "book": "Jeremiah",
+    "reference": 9,
+    "planned_date": "2028-06-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1006,
+    "book": "Psalms",
+    "reference": 122,
+    "planned_date": "2028-06-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1007,
+    "book": "Jeremiah",
+    "reference": 10,
+    "planned_date": "2028-06-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1008,
+    "book": "Jeremiah",
+    "reference": 11,
+    "planned_date": "2028-06-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1009,
+    "book": "Jeremiah",
+    "reference": 12,
+    "planned_date": "2028-06-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1010,
+    "book": "Jeremiah",
+    "reference": 13,
+    "planned_date": "2028-06-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1011,
+    "book": "Jeremiah",
+    "reference": 14,
+    "planned_date": "2028-06-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1012,
+    "book": "Psalms",
+    "reference": 123,
+    "planned_date": "2028-06-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1013,
+    "book": "Jeremiah",
+    "reference": 15,
+    "planned_date": "2028-06-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1014,
+    "book": "Jeremiah",
+    "reference": 16,
+    "planned_date": "2028-06-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1015,
+    "book": "Jeremiah",
+    "reference": 17,
+    "planned_date": "2028-06-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1016,
+    "book": "Jeremiah",
+    "reference": 18,
+    "planned_date": "2028-06-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1017,
+    "book": "Jeremiah",
+    "reference": 19,
+    "planned_date": "2028-06-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1018,
+    "book": "Jeremiah",
+    "reference": 20,
+    "planned_date": "2028-06-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1019,
+    "book": "Psalms",
+    "reference": 124,
+    "planned_date": "2028-06-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1020,
+    "book": "Jeremiah",
+    "reference": 21,
+    "planned_date": "2028-06-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1021,
+    "book": "Jeremiah",
+    "reference": 22,
+    "planned_date": "2028-06-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1022,
+    "book": "Jeremiah",
+    "reference": 23,
+    "planned_date": "2028-06-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1023,
+    "book": "Jeremiah",
+    "reference": 24,
+    "planned_date": "2028-06-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1024,
+    "book": "Jeremiah",
+    "reference": 25,
+    "planned_date": "2028-07-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1025,
+    "book": "Psalms",
+    "reference": 125,
+    "planned_date": "2028-07-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1026,
+    "book": "Jeremiah",
+    "reference": 26,
+    "planned_date": "2028-07-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1027,
+    "book": "Jeremiah",
+    "reference": 27,
+    "planned_date": "2028-07-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1028,
+    "book": "Jeremiah",
+    "reference": 28,
+    "planned_date": "2028-07-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1029,
+    "book": "Psalms",
+    "reference": 126,
+    "planned_date": "2028-07-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1030,
+    "book": "Jeremiah",
+    "reference": 29,
+    "planned_date": "2028-07-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1031,
+    "book": "Jeremiah",
+    "reference": 30,
+    "planned_date": "2028-07-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1032,
+    "book": "Jeremiah",
+    "reference": 31,
+    "planned_date": "2028-07-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1033,
+    "book": "Jeremiah",
+    "reference": 32,
+    "planned_date": "2028-07-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1034,
+    "book": "Jeremiah",
+    "reference": 33,
+    "planned_date": "2028-07-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1035,
+    "book": "Psalms",
+    "reference": 127,
+    "planned_date": "2028-07-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1036,
+    "book": "Jeremiah",
+    "reference": 34,
+    "planned_date": "2028-07-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1037,
+    "book": "Jeremiah",
+    "reference": 35,
+    "planned_date": "2028-07-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1038,
+    "book": "Jeremiah",
+    "reference": 36,
+    "planned_date": "2028-07-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1039,
+    "book": "Jeremiah",
+    "reference": 37,
+    "planned_date": "2028-07-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1040,
+    "book": "Jeremiah",
+    "reference": 38,
+    "planned_date": "2028-07-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1041,
+    "book": "Jeremiah",
+    "reference": 39,
+    "planned_date": "2028-07-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1042,
+    "book": "Psalms",
+    "reference": 128,
+    "planned_date": "2028-07-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1043,
+    "book": "Jeremiah",
+    "reference": 40,
+    "planned_date": "2028-07-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1044,
+    "book": "Jeremiah",
+    "reference": 41,
+    "planned_date": "2028-07-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1045,
+    "book": "Jeremiah",
+    "reference": 42,
+    "planned_date": "2028-07-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1046,
+    "book": "Jeremiah",
+    "reference": 43,
+    "planned_date": "2028-07-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1047,
+    "book": "Jeremiah",
+    "reference": 44,
+    "planned_date": "2028-07-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1048,
+    "book": "Psalms",
+    "reference": 129,
+    "planned_date": "2028-07-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1049,
+    "book": "Jeremiah",
+    "reference": 45,
+    "planned_date": "2028-07-31",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1050,
+    "book": "Jeremiah",
+    "reference": 46,
+    "planned_date": "2028-08-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1051,
+    "book": "Jeremiah",
+    "reference": 47,
+    "planned_date": "2028-08-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1052,
+    "book": "Jeremiah",
+    "reference": 48,
+    "planned_date": "2028-08-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1053,
+    "book": "Psalms",
+    "reference": 130,
+    "planned_date": "2028-08-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1054,
+    "book": "Jeremiah",
+    "reference": 49,
+    "planned_date": "2028-08-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1055,
+    "book": "Jeremiah",
+    "reference": 50,
+    "planned_date": "2028-08-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1056,
+    "book": "Jeremiah",
+    "reference": 51,
+    "planned_date": "2028-08-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1057,
+    "book": "Jeremiah",
+    "reference": 52,
+    "planned_date": "2028-08-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1058,
+    "book": "Psalms",
+    "reference": 131,
+    "planned_date": "2028-08-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1059,
+    "book": "Lamentations",
+    "reference": 1,
+    "planned_date": "2028-08-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1060,
+    "book": "Lamentations",
+    "reference": 2,
+    "planned_date": "2028-08-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1061,
+    "book": "Lamentations",
+    "reference": 3,
+    "planned_date": "2028-08-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1062,
+    "book": "Lamentations",
+    "reference": 4,
+    "planned_date": "2028-08-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1063,
+    "book": "Lamentations",
+    "reference": 5,
+    "planned_date": "2028-08-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1064,
+    "book": "Psalms",
+    "reference": 132,
+    "planned_date": "2028-08-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1065,
+    "book": "Ezekiel",
+    "reference": 1,
+    "planned_date": "2028-08-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1066,
+    "book": "Ezekiel",
+    "reference": 2,
+    "planned_date": "2028-08-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1067,
+    "book": "Ezekiel",
+    "reference": 3,
+    "planned_date": "2028-08-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1068,
+    "book": "Ezekiel",
+    "reference": 4,
+    "planned_date": "2028-08-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1069,
+    "book": "Ezekiel",
+    "reference": 5,
+    "planned_date": "2028-08-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1070,
+    "book": "Psalms",
+    "reference": 133,
+    "planned_date": "2028-08-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1071,
+    "book": "Ezekiel",
+    "reference": 6,
+    "planned_date": "2028-08-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1072,
+    "book": "Ezekiel",
+    "reference": 7,
+    "planned_date": "2028-08-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1073,
+    "book": "Ezekiel",
+    "reference": 8,
+    "planned_date": "2028-08-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1074,
+    "book": "Ezekiel",
+    "reference": 9,
+    "planned_date": "2028-09-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1075,
+    "book": "Ezekiel",
+    "reference": 10,
+    "planned_date": "2028-09-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1076,
+    "book": "Psalms",
+    "reference": 134,
+    "planned_date": "2028-09-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1077,
+    "book": "Ezekiel",
+    "reference": 11,
+    "planned_date": "2028-09-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1078,
+    "book": "Ezekiel",
+    "reference": 12,
+    "planned_date": "2028-09-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1079,
+    "book": "Ezekiel",
+    "reference": 13,
+    "planned_date": "2028-09-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1080,
+    "book": "Ezekiel",
+    "reference": 14,
+    "planned_date": "2028-09-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1081,
+    "book": "Ezekiel",
+    "reference": 15,
+    "planned_date": "2028-09-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1082,
+    "book": "Psalms",
+    "reference": 135,
+    "planned_date": "2028-09-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1083,
+    "book": "Ezekiel",
+    "reference": 16,
+    "planned_date": "2028-09-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1084,
+    "book": "Ezekiel",
+    "reference": 17,
+    "planned_date": "2028-09-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1085,
+    "book": "Ezekiel",
+    "reference": 18,
+    "planned_date": "2028-09-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1086,
+    "book": "Ezekiel",
+    "reference": 19,
+    "planned_date": "2028-09-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1087,
+    "book": "Ezekiel",
+    "reference": 20,
+    "planned_date": "2028-09-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1088,
+    "book": "Psalms",
+    "reference": 136,
+    "planned_date": "2028-09-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1089,
+    "book": "Ezekiel",
+    "reference": 21,
+    "planned_date": "2028-09-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1090,
+    "book": "Ezekiel",
+    "reference": 22,
+    "planned_date": "2028-09-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1091,
+    "book": "Ezekiel",
+    "reference": 23,
+    "planned_date": "2028-09-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1092,
+    "book": "Ezekiel",
+    "reference": 24,
+    "planned_date": "2028-09-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1093,
+    "book": "Ezekiel",
+    "reference": 25,
+    "planned_date": "2028-09-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1094,
+    "book": "Ezekiel",
+    "reference": 26,
+    "planned_date": "2028-09-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1095,
+    "book": "Ezekiel",
+    "reference": 27,
+    "planned_date": "2028-09-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1096,
+    "book": "Psalms",
+    "reference": 137,
+    "planned_date": "2028-09-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1097,
+    "book": "Ezekiel",
+    "reference": 28,
+    "planned_date": "2028-09-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1098,
+    "book": "Ezekiel",
+    "reference": 29,
+    "planned_date": "2028-09-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1099,
+    "book": "Ezekiel",
+    "reference": 30,
+    "planned_date": "2028-09-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1100,
+    "book": "Psalms",
+    "reference": 138,
+    "planned_date": "2028-10-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1101,
+    "book": "Ezekiel",
+    "reference": 31,
+    "planned_date": "2028-10-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1102,
+    "book": "Ezekiel",
+    "reference": 32,
+    "planned_date": "2028-10-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1103,
+    "book": "Ezekiel",
+    "reference": 33,
+    "planned_date": "2028-10-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1104,
+    "book": "Ezekiel",
+    "reference": 34,
+    "planned_date": "2028-10-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1105,
+    "book": "Ezekiel",
+    "reference": 35,
+    "planned_date": "2028-10-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1106,
+    "book": "Ezekiel",
+    "reference": 36,
+    "planned_date": "2028-10-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1107,
+    "book": "Ezekiel",
+    "reference": 37,
+    "planned_date": "2028-10-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1108,
+    "book": "Ezekiel",
+    "reference": 38,
+    "planned_date": "2028-10-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1109,
+    "book": "Psalms",
+    "reference": 139,
+    "planned_date": "2028-10-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1110,
+    "book": "Ezekiel",
+    "reference": 39,
+    "planned_date": "2028-10-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1111,
+    "book": "Ezekiel",
+    "reference": 40,
+    "planned_date": "2028-10-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1112,
+    "book": "Ezekiel",
+    "reference": 41,
+    "planned_date": "2028-10-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1113,
+    "book": "Ezekiel",
+    "reference": 42,
+    "planned_date": "2028-10-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1114,
+    "book": "Ezekiel",
+    "reference": 43,
+    "planned_date": "2028-10-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1115,
+    "book": "Psalms",
+    "reference": 140,
+    "planned_date": "2028-10-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1116,
+    "book": "Ezekiel",
+    "reference": 44,
+    "planned_date": "2028-10-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1117,
+    "book": "Ezekiel",
+    "reference": 45,
+    "planned_date": "2028-10-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1118,
+    "book": "Ezekiel",
+    "reference": 46,
+    "planned_date": "2028-10-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1119,
+    "book": "Ezekiel",
+    "reference": 47,
+    "planned_date": "2028-10-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1120,
+    "book": "Ezekiel",
+    "reference": 48,
+    "planned_date": "2028-10-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1121,
+    "book": "Psalms",
+    "reference": 141,
+    "planned_date": "2028-10-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1122,
+    "book": "Daniel",
+    "reference": 1,
+    "planned_date": "2028-10-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1123,
+    "book": "Daniel",
+    "reference": 2,
+    "planned_date": "2028-10-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1124,
+    "book": "Daniel",
+    "reference": 3,
+    "planned_date": "2028-10-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1125,
+    "book": "Daniel",
+    "reference": 4,
+    "planned_date": "2028-10-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1126,
+    "book": "Psalms",
+    "reference": 142,
+    "planned_date": "2028-10-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1127,
+    "book": "Daniel",
+    "reference": 5,
+    "planned_date": "2028-10-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1128,
+    "book": "Daniel",
+    "reference": 6,
+    "planned_date": "2028-11-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1129,
+    "book": "Daniel",
+    "reference": 7,
+    "planned_date": "2028-11-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1130,
+    "book": "Daniel",
+    "reference": 8,
+    "planned_date": "2028-11-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1131,
+    "book": "Daniel",
+    "reference": 9,
+    "planned_date": "2028-11-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1132,
+    "book": "Psalms",
+    "reference": 143,
+    "planned_date": "2028-11-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1133,
+    "book": "Daniel",
+    "reference": 10,
+    "planned_date": "2028-11-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1134,
+    "book": "Daniel",
+    "reference": 11,
+    "planned_date": "2028-11-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1135,
+    "book": "Daniel",
+    "reference": 12,
+    "planned_date": "2028-11-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1136,
+    "book": "Hebrews",
+    "reference": 1,
+    "planned_date": "2028-11-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1137,
+    "book": "Hebrews",
+    "reference": 2,
+    "planned_date": "2028-11-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1138,
+    "book": "Hebrews",
+    "reference": 3,
+    "planned_date": "2028-11-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1139,
+    "book": "Psalms",
+    "reference": 144,
+    "planned_date": "2028-11-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1140,
+    "book": "Hebrews",
+    "reference": 4,
+    "planned_date": "2028-11-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1141,
+    "book": "Hebrews",
+    "reference": 5,
+    "planned_date": "2028-11-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1142,
+    "book": "Hebrews",
+    "reference": 6,
+    "planned_date": "2028-11-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1143,
+    "book": "Hebrews",
+    "reference": 7,
+    "planned_date": "2028-11-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1144,
+    "book": "Hebrews",
+    "reference": 8,
+    "planned_date": "2028-11-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1145,
+    "book": "Hebrews",
+    "reference": 9,
+    "planned_date": "2028-11-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1146,
+    "book": "Hebrews",
+    "reference": 10,
+    "planned_date": "2028-11-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1147,
+    "book": "Hebrews",
+    "reference": 11,
+    "planned_date": "2028-11-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1148,
+    "book": "Psalms",
+    "reference": 145,
+    "planned_date": "2028-11-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1149,
+    "book": "Hebrews",
+    "reference": 12,
+    "planned_date": "2028-11-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1150,
+    "book": "Hebrews",
+    "reference": 13,
+    "planned_date": "2028-11-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1151,
+    "book": "James",
+    "reference": 1,
+    "planned_date": "2028-11-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1152,
+    "book": "James",
+    "reference": 2,
+    "planned_date": "2028-11-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1153,
+    "book": "James",
+    "reference": 3,
+    "planned_date": "2028-11-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1154,
+    "book": "James",
+    "reference": 4,
+    "planned_date": "2028-11-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1155,
+    "book": "James",
+    "reference": 5,
+    "planned_date": "2028-11-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1156,
+    "book": "Psalms",
+    "reference": 146,
+    "planned_date": "2028-11-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1157,
+    "book": "1 Peter",
+    "reference": 1,
+    "planned_date": "2028-11-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1158,
+    "book": "1 Peter",
+    "reference": 2,
+    "planned_date": "2028-11-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1159,
+    "book": "1 Peter",
+    "reference": 3,
+    "planned_date": "2028-11-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1160,
+    "book": "1 Peter",
+    "reference": 4,
+    "planned_date": "2028-11-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1161,
+    "book": "1 Peter",
+    "reference": 5,
+    "planned_date": "2028-11-30",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1162,
+    "book": "2 Peter",
+    "reference": 1,
+    "planned_date": "2028-12-01",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1163,
+    "book": "2 Peter",
+    "reference": 2,
+    "planned_date": "2028-12-02",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1164,
+    "book": "Psalms",
+    "reference": 147,
+    "planned_date": "2028-12-03",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1165,
+    "book": "2 Peter",
+    "reference": 3,
+    "planned_date": "2028-12-04",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1166,
+    "book": "1 John",
+    "reference": 1,
+    "planned_date": "2028-12-05",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1167,
+    "book": "1 John",
+    "reference": 2,
+    "planned_date": "2028-12-06",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1168,
+    "book": "1 John",
+    "reference": 3,
+    "planned_date": "2028-12-07",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1169,
+    "book": "1 John",
+    "reference": 4,
+    "planned_date": "2028-12-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1170,
+    "book": "1 John",
+    "reference": 5,
+    "planned_date": "2028-12-08",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1171,
+    "book": "2 John",
+    "reference": "1:1-13",
+    "planned_date": "2028-12-09",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1172,
+    "book": "Psalms",
+    "reference": 148,
+    "planned_date": "2028-12-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1173,
+    "book": "3 John",
+    "reference": "1:1-15",
+    "planned_date": "2028-12-10",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1174,
+    "book": "Jude",
+    "reference": "1:1-24",
+    "planned_date": "2028-12-11",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1175,
+    "book": "Revelation",
+    "reference": 1,
+    "planned_date": "2028-12-12",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1176,
+    "book": "Revelation",
+    "reference": 2,
+    "planned_date": "2028-12-13",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1177,
+    "book": "Revelation",
+    "reference": 3,
+    "planned_date": "2028-12-14",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1178,
+    "book": "Revelation",
+    "reference": 4,
+    "planned_date": "2028-12-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1179,
+    "book": "Revelation",
+    "reference": 5,
+    "planned_date": "2028-12-15",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1180,
+    "book": "Revelation",
+    "reference": 6,
+    "planned_date": "2028-12-16",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1181,
+    "book": "Psalms",
+    "reference": 149,
+    "planned_date": "2028-12-17",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1182,
+    "book": "Revelation",
+    "reference": 7,
+    "planned_date": "2028-12-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1183,
+    "book": "Revelation",
+    "reference": 8,
+    "planned_date": "2028-12-18",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1184,
+    "book": "Revelation",
+    "reference": 9,
+    "planned_date": "2028-12-19",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1185,
+    "book": "Revelation",
+    "reference": 10,
+    "planned_date": "2028-12-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1186,
+    "book": "Revelation",
+    "reference": 11,
+    "planned_date": "2028-12-20",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1187,
+    "book": "Revelation",
+    "reference": 12,
+    "planned_date": "2028-12-21",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1188,
+    "book": "Revelation",
+    "reference": 13,
+    "planned_date": "2028-12-22",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1189,
+    "book": "Revelation",
+    "reference": 14,
+    "planned_date": "2028-12-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1190,
+    "book": "Revelation",
+    "reference": 15,
+    "planned_date": "2028-12-23",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1191,
+    "book": "Psalms",
+    "reference": 150,
+    "planned_date": "2028-12-24",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1192,
+    "book": "Revelation",
+    "reference": 16,
+    "planned_date": "2028-12-25",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1193,
+    "book": "Revelation",
+    "reference": 17,
+    "planned_date": "2028-12-26",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1194,
+    "book": "Revelation",
+    "reference": 18,
+    "planned_date": "2028-12-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1195,
+    "book": "Revelation",
+    "reference": 19,
+    "planned_date": "2028-12-27",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1196,
+    "book": "Revelation",
+    "reference": 20,
+    "planned_date": "2028-12-28",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1197,
+    "book": "Revelation",
+    "reference": 21,
+    "planned_date": "2028-12-29",
+    "done": "",
+    "completed_date": ""
+  },
+  {
+    "seq": 1198,
+    "book": "Revelation",
+    "reference": 22,
+    "planned_date": "2028-12-30",
+    "done": "",
+    "completed_date": ""
+  }
+]
