@@ -260,8 +260,14 @@ document.getElementById('toggle-view-btn').addEventListener('click', () => {
 // ---------- Init ----------
 
 (async () => {
-  await loadData();
-  await renderCurrentReading();
+  try {
+    await loadData();
+    await renderCurrentReading();
+  } catch (err) {
+    document.getElementById('progress').textContent = '';
+    document.getElementById('reading-title').textContent = 'Something went wrong';
+    document.getElementById('reading-text').textContent = `Error: ${err.message}`;
+  }
 })();
 </script>
 
