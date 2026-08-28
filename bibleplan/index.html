@@ -46,7 +46,7 @@ async function loadData() {
   schedule = await scheduleRes.json();
 
   const progressRes = await fetch(BASE_URL + '/latest', {
-    headers: { 'X-Master-Key': API_KEY }
+    headers: { 'X-Access-Key': API_KEY }
   });
   const data = await progressRes.json();
   progress = data.record || {};
@@ -57,7 +57,7 @@ async function saveProgress() {
     method: 'PUT',
     headers: {
       'Content-Type': 'application/json',
-      'X-Master-Key': API_KEY
+      'X-Access-Key': API_KEY
     },
     body: JSON.stringify(progress)
   });
